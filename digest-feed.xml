@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Digest</title>
+    <link>https://github.com/shadonduplessis-dot/digest-feed</link>
+    <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Oct 2026 15:02:52 +0000</lastBuildDate>
+    <item>
+      <title>The monster Chris Hansen sees in Primetime, explained</title>
+      <link>https://filmcolossus.com/primetime-monster-hansen/</link>
+      <guid isPermaLink="true">https://filmcolossus.com/primetime-monster-hansen/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://filmcolossus.com/primetime-monster-hansen/">Film Colossus</source>
+      <description>Film analysis of the 'monster' motif in Primetime, the Chris Hansen / To Catch a Predator drama. Argues the creature reflects Hansen's own moral certainty and ratings desperation, and reads the film as a parallel to post-9/11 'with us or against us' thinking.</description>
+      <pubDate>Sun, 18 Oct 2026 15:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing Friction</title>
+      <link>https://designingfriction.com/</link>
+      <guid isPermaLink="true">https://designingfriction.com/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://designingfriction.com/">Luna Maurer &amp; Roel Wouters</source>
+      <description>A design manifesto arguing digital products should build in resistance, delay and discomfort as a counterweight to frictionless, algorithm-driven UX, in order to preserve human autonomy and deeper engagement.</description>
+      <pubDate>Sun, 18 Oct 2026 15:02:52 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
