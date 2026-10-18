@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:58:47 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -23,6 +23,114 @@
       <source url="https://designingfriction.com/">Luna Maurer &amp; Roel Wouters</source>
       <description>A design manifesto arguing digital products should build in resistance, delay and discomfort as a counterweight to frictionless, algorithm-driven UX, in order to preserve human autonomy and deeper engagement.</description>
       <pubDate>Sun, 18 Oct 2026 15:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>How are countries evaluating AI models?</title>
+      <link>https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/">Brookings</source>
+      <description>Brookings Institution analysis of how different governments approach testing and assessing AI models, and what the differing methods mean for international cooperation on AI governance.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feeding the beast: Energy security as a precondition for the EU's AI power</title>
+      <link>https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power</link>
+      <guid isPermaLink="true">https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power">EU Institute for Security Studies</source>
+      <description>Policy brief on how electricity access shapes the global AI race, covering Europe's energy costs, grid limits and import dependence, and how data centre siting might turn these constraints into a strength.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of AI Global Governance and Its Implications for the U.S.-China Summit</title>
+      <link>https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit</link>
+      <guid isPermaLink="true">https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit">CSIS</source>
+      <description>Survey of competing international AI governance efforts, including Chinese and US-led initiatives, UN processes and the EU AI Act, with recommendations for US policymakers ahead of bilateral talks.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential</title>
+      <link>https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html</link>
+      <guid isPermaLink="true">https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html">DIGITIMES</source>
+      <description>Report on TSMC and ASML exploring larger photomasks as a route to full-field High-NA EUV lithography for 2nm and angstrom-era nodes. The full text is paywalled.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can a Radioactive Ore Break China's Grip on Rare Earths?</title>
+      <link>https://spectrum.ieee.org/monazite-rare-earth</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/monazite-rare-earth</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://spectrum.ieee.org/monazite-rare-earth">IEEE Spectrum</source>
+      <description>Looks at monazite as a possible source of rare earths outside China, weighing thorium waste handling, regulatory hurdles and the speculative dealmaking that has dogged the sector.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Everyone Is Talking About Hybrid Bonding, and Who Is in the Race</title>
+      <link>https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding</link>
+      <guid isPermaLink="true">https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding">TrendForce</source>
+      <description>Explainer on hybrid bonding in advanced packaging, covering bonding methods, bottlenecks and the main suppliers as chip stacking and chiplets spread. Only part is free to read.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bela Bajaria Was Fired Wednesday. Next Week Netflix Faces Wall Street</title>
+      <link>https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/</link>
+      <guid isPermaLink="true">https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/">The Ankler</source>
+      <description>Reports on Netflix's content-chief change and roughly 1,000 job cuts, set against a weak stock year and expectations for the upcoming quarterly results. The article is partly paywalled.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digger is Tom Cruise's worst box-office opening in 20 years, can lose $150 million</title>
+      <link>https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/</link>
+      <guid isPermaLink="true">https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/">ThePrint</source>
+      <description>Breaks down the weak opening of Digger against its reported budget and marketing spend, and estimates how large the studio's eventual loss could be.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disney Is Opening the Door to Netflix—and Changing the Streaming Playbook</title>
+      <link>https://www.investing.com/analysis/disney-is-opening-the-door-to-netflixand-changing-the-streaming-playbook-200689145</link>
+      <guid isPermaLink="true">https://www.investing.com/analysis/disney-is-opening-the-door-to-netflixand-changing-the-streaming-playbook-200689145</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.investing.com/analysis/disney-is-opening-the-door-to-netflixand-changing-the-streaming-playbook-200689145">Investing.com (MarketBeat)</source>
+      <description>Examines Disney's decision to license catalog titles to Netflix, tying it to falling linear TV revenue and debt, and compares the two companies' financials and valuations.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls player ratings vs Stade Francais | 2026/27 Investec Champions Cup</title>
+      <link>https://www.rugbypass.com/news/bulls-player-ratings-vs-stade-francais-2026-27-investec-champions-cup</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/bulls-player-ratings-vs-stade-francais-2026-27-investec-champions-cup</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.rugbypass.com/news/bulls-player-ratings-vs-stade-francais-2026-27-investec-champions-cup">RugbyPass</source>
+      <description>Individual player ratings for the Bulls after their 56-20 Champions Cup opener at Loftus on 17 October.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers thump Bristol despite first-half red card</title>
+      <link>https://rugby365.com/tournaments/european-cup/stormers-thump-bristol-despite-first-half-red-card/</link>
+      <guid isPermaLink="true">https://rugby365.com/tournaments/european-cup/stormers-thump-bristol-despite-first-half-red-card/</guid>
+      <category>South African Rugby</category>
+      <source url="https://rugby365.com/tournaments/european-cup/stormers-thump-bristol-despite-first-half-red-card/">Rugby365</source>
+      <description>Match report on the Stormers' 49-12 Champions Cup win over Bristol in Cape Town, achieved with a player sent off in the first half.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Springboks: Frans Malherbe issues 'hopeful' update after 19-month-long absence</title>
+      <link>https://www.planetrugby.com/news/springboks-frans-malherbe-issues-hopeful-update-after-19-month-long-absence</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/springboks-frans-malherbe-issues-hopeful-update-after-19-month-long-absence</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.planetrugby.com/news/springboks-frans-malherbe-issues-hopeful-update-after-19-month-long-absence">Planet Rugby</source>
+      <description>Update on the Springbok prop's recovery, noting he has returned to non-contact team training with no decision yet on his future.</description>
+      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
