@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:18:53 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -131,6 +131,114 @@
       <source url="https://www.planetrugby.com/news/springboks-frans-malherbe-issues-hopeful-update-after-19-month-long-absence">Planet Rugby</source>
       <description>Update on the Springbok prop's recovery, noting he has returned to non-contact team training with no decision yet on his future.</description>
       <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
+    </item>
+      <item>
+      <title>US-China race is on for the Gulf's AI future</title>
+      <link>https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/</link>
+      <guid isPermaLink="true">https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Asia Times</source>
+      <description>An analysis of how Washington and Beijing compete to supply AI and digital infrastructure to Saudi Arabia and the UAE, and how Gulf states hedge between them. It considers the effect of the regional conflict on trust in US security guarantees.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key watchdogs signal they will step up AI regulation</title>
+      <link>https://www.semafor.com/article/10/13/2026/key-watchdogs-signal-they-will-step-up-ai-regulation</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/10/13/2026/key-watchdogs-signal-they-will-step-up-ai-regulation</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Semafor</source>
+      <description>Looks at financial regulators and the UK moving toward closer oversight of AI models, set against a US administration with little appetite for tougher rules. Also touches on how China's approach to AI safety is characterised.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why data centers are a top issue in the 2026 midterms</title>
+      <link>https://www.brookings.edu/articles/why-data-centers-are-a-top-issue-in-the-2026-midterms/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/why-data-centers-are-a-top-issue-in-the-2026-midterms/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Brookings</source>
+      <description>Commentary on why data center buildouts have become a campaign issue in both parties, tied to electricity prices, water use and wider affordability worries. Considers what the midterm results could mean for future AI infrastructure policy and investment.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>What ASML Said on Its Q3 Earnings Call</title>
+      <link>https://www.marketbeat.com/instant-alerts/transcript-what-asml-asml-said-on-its-q3-earnings-call-2026-10-14/</link>
+      <guid isPermaLink="true">https://www.marketbeat.com/instant-alerts/transcript-what-asml-asml-said-on-its-q3-earnings-call-2026-10-14/</guid>
+      <category>Chip Manufacturing</category>
+      <source>MarketBeat</source>
+      <description>Summary of ASML's third-quarter results and outlook, covering EUV output plans, whether supply can keep up with AI-driven demand through 2028, and where High-NA adoption stands among its main customers.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation</title>
+      <link>https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tom's Hardware</source>
+      <description>Covers a Micron talk on how much more wafer area high-bandwidth memory consumes than standard DRAM and why that gap is growing. Connects it to memory pricing and supply tightness.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Industry Week In Review</title>
+      <link>https://semiengineering.com/chip-industry-week-in-review-159/</link>
+      <guid isPermaLink="true">https://semiengineering.com/chip-industry-week-in-review-159/</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Engineering</source>
+      <description>Weekly roundup spanning a packaging interposer deal between TSMC and GlobalFoundries, silicon carbide funding, nanoimprint and hyper-NA lithography developments, and industry sales and policy news.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Streamers Stack Up in Subscribers, Revenue and Profits</title>
+      <link>https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-paramount-subscribers-revenue-profits-august-2026/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-paramount-subscribers-revenue-profits-august-2026/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TheWrap</source>
+      <description>Side-by-side comparison of the major studios' streaming businesses using their latest quarterly figures for revenue, profit and subscribers. Also notes the status of the pending Paramount-Warner Bros. Discovery merger.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Box Office Is Back. Now Comes the War Over Who Gets the Upside</title>
+      <link>https://theankler.com/box-office-is-back-now-comes-the-war-over-who-gets-the-upside/</link>
+      <guid isPermaLink="true">https://theankler.com/box-office-is-back-now-comes-the-war-over-who-gets-the-upside/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>Explains how talent profit participation, studio fees and streaming bonuses work as theatrical revenue recovers. Uses a low-budget hit as a case study in who gets paid when a film succeeds.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix Is Out-Lobbying All of Hollywood</title>
+      <link>https://puck.news/netflix-is-out-lobbying-the-rest-of-hollywood-combined/</link>
+      <guid isPermaLink="true">https://puck.news/netflix-is-out-lobbying-the-rest-of-hollywood-combined/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Puck</source>
+      <description>Data-driven look at 27 years of federal lobbying filings by the film industry, finding Netflix now outspends the MPA in Washington. Examines what each is lobbying for.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers 49-12 Bristol Bears: Likely lads give Pat Lam's young side a lesson in finishing</title>
+      <link>https://www.therugbypaper.co.uk/all/domestic-club-rugby-union/epcr-champions-cup/495316/likely-lads-give-bears-lesson-in-finishing-ish-n/</link>
+      <guid isPermaLink="true">https://www.therugbypaper.co.uk/all/domestic-club-rugby-union/epcr-champions-cup/495316/likely-lads-give-bears-lesson-in-finishing-ish-n/</guid>
+      <category>South African Rugby</category>
+      <source>The Rugby Paper</source>
+      <description>Match report on the Stormers' bonus-point Champions Cup win over a young Bristol side in Cape Town, the most recent Stormers match. Notes Bristol's promise and their defensive lapses.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lions' bravery in France speaks louder than Champions Cup defeat after Hyron Andrews' death</title>
+      <link>https://iol.co.za/sport/rugby/urc/2026-10-18-lions-bravery-in-france-speaks-louder-than-champions-cup-defeat-after-hyron-andrews-death/</link>
+      <guid isPermaLink="true">https://iol.co.za/sport/rugby/urc/2026-10-18-lions-bravery-in-france-speaks-louder-than-champions-cup-defeat-after-hyron-andrews-death/</guid>
+      <category>South African Rugby</category>
+      <source>IOL</source>
+      <description>Opinion piece on the Lions' Champions Cup debut against La Rochelle, played after the death of lock Hyron Andrews, and the team's response on the day.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of the URC: Wounded locals await Sharks, Lions</title>
+      <link>https://www.sarugbymag.co.za/state-urc-wounded-locals-await-sharks-lions/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/state-urc-wounded-locals-await-sharks-lions/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Early-season check on the four South African URC sides after round two, with the standings picture and a look ahead to the first local derbies.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
