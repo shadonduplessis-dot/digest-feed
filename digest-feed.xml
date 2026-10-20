@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 06:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:36:17 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -239,6 +239,105 @@
       <source>SA Rugby magazine</source>
       <description>Early-season check on the four South African URC sides after round two, with the standings picture and a look ahead to the first local derbies.</description>
       <pubDate>Mon, 19 Oct 2026 06:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Breakout Capacity: A Middle-Power Path Between Racing and Dependence</title>
+      <link>https://carnegieendowment.org/research/2026/09/artificial-intelligence-ai-development-breakout-germany-india-japan-uk-middle-power</link>
+      <guid isPermaLink="true">https://carnegieendowment.org/research/2026/09/artificial-intelligence-ai-development-breakout-germany-india-japan-uk-middle-power</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Carnegie Endowment</source>
+      <description>Carnegie paper on how countries without their own frontier AI labs, such as Germany, India and the UK, can hedge against losing access to American or Chinese models. It proposes keeping the legal authority and latent resources to mount a rapid catch-up push while staying aligned with a major supplier.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Great Compute Reckoning: Record Chip Profits Collide with the Rising Cost of Artificial Intelligence</title>
+      <link>https://www.faf.ae/home/2026/10/16/the-great-compute-reckoning-record-chip-profits-collide-with-the-rising-cost-of-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.faf.ae/home/2026/10/16/the-great-compute-reckoning-record-chip-profits-collide-with-the-rising-cost-of-artificial-intelligence</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Foreign Affairs Forum</source>
+      <description>Commentary arguing that booming chipmaker earnings sit alongside growing strain in the credit and valuation side of the AI buildout. It frames chip supply, power, financing and geopolitics as increasingly linked.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ten National AI Strategies Compared: Who Is Building, Who Is Stuck</title>
+      <link>https://theaiinsider.tech/2026/10/19/ten-national-ai-strategies-compared-who-is-building-who-is-stuck/</link>
+      <guid isPermaLink="true">https://theaiinsider.tech/2026/10/19/ten-national-ai-strategies-compared-who-is-building-who-is-stuck/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>The AI Insider</source>
+      <description>Side-by-side look at the AI strategies of ten countries and regions, including Canada, the UK, the EU, Singapore, the UAE, Japan and South Korea. The common finding is that research foundations are in place but broad adoption across business and government lags.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global 300mm Fab Equipment Spending to Reach $227 Billion in 2029 as Buildout Accelerates, SEMI Projects</title>
+      <link>https://www.semi.org/en/semi-press-release/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates-semi-projects</link>
+      <guid isPermaLink="true">https://www.semi.org/en/semi-press-release/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates-semi-projects</guid>
+      <category>Chip Manufacturing</category>
+      <source>SEMI</source>
+      <description>Industry-group forecast of worldwide 300mm fab equipment spending, with a steep 2026 increase and continued double-digit growth through 2029. It also counts new fab construction starts by year, including several in the United States.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan to Inject Additional 400 Billion Yen Into Chipmaker Rapidus</title>
+      <link>https://en.sedaily.com/international/2026/10/20/japan-to-inject-additional-400-billion-yen-into-chipmaker</link>
+      <guid isPermaLink="true">https://en.sedaily.com/international/2026/10/20/japan-to-inject-additional-400-billion-yen-into-chipmaker</guid>
+      <category>Chip Manufacturing</category>
+      <source>Seoul Economic Daily</source>
+      <description>Report on a fresh round of Japanese government equity for Rapidus, lifting total state backing. The money is meant to strengthen the balance sheet so the company can borrow heavily to scale 2nm production in Hokkaido.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commentary: Samsung's US 2nm ramp faces no room for error</title>
+      <link>https://www.digitimes.com/news/a20261020PD218/samsung-2nm-fab-texas-production-tesla.html</link>
+      <guid isPermaLink="true">https://www.digitimes.com/news/a20261020PD218/samsung-2nm-fab-texas-production-tesla.html</guid>
+      <category>Chip Manufacturing</category>
+      <source>DIGITIMES</source>
+      <description>Commentary on whether Samsung's Taylor, Texas fab can reach volume 2nm production and narrow its gap with TSMC. It ties the outlook to anchor-customer timing, including Tesla and possible Broadcom orders. Partly paywalled.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's True: Streamers Really Do Fire Executives Far Faster Than Studios</title>
+      <link>https://puck.news/why-streaming-jobs-dont-last-crunching-the-numbers/</link>
+      <guid isPermaLink="true">https://puck.news/why-streaming-jobs-dont-last-crunching-the-numbers/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Puck</source>
+      <description>Data analysis of more than a thousand senior executive appointments at streaming services and legacy studios to compare how long leaders last. It uses Netflix's recent leadership exits as the jumping-off point.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Skydance Film Enigma: How Do Paramount and Warner Bros. Coexist?</title>
+      <link>https://www.thewrap.com/creative-content/movies/skydance-film-paramount-warner-bros-explained-how-it-works/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/creative-content/movies/skydance-film-paramount-warner-bros-explained-how-it-works/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TheWrap</source>
+      <description>Analysis of how the combined Skydance-run company plans to operate two film studios and an unusually large release slate. It weighs the debt load and cost-cutting targets against sources' doubts that the output can be sustained.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paramount Stock CRUSHED After Merger with Warner Discovery Closes</title>
+      <link>https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the</link>
+      <guid isPermaLink="true">https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the</guid>
+      <category>Film &amp; Streaming</category>
+      <source>BIG by Matt Stoller</source>
+      <description>Critical newsletter take on the newly closed Paramount-Warner Bros. Discovery combination, focusing on its debt, falling stock and bond prices and planned layoffs. It also questions whether the streaming strategy can be made profitable.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls v Stade Francais: Five takeaways as 'hot' Springboks prospect's hat-trick and Rudolph 'magic' downs Parisians</title>
+      <link>https://www.planetrugby.com/news/bulls-v-stade-francais-five-takeaways-as-hot-springboks-prospects-hat-trick-and-rudolph-magic-downs-parisians</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/bulls-v-stade-francais-five-takeaways-as-hot-springboks-prospects-hat-trick-and-rudolph-magic-downs-parisians</guid>
+      <category>South African Rugby</category>
+      <source>Planet Rugby</source>
+      <description>Match analysis of the Bulls' Champions Cup opener at home to Stade Francais, picking out a young Springbok hopeful's three tries and the contribution of Jeandre Rudolph. Written as five key talking points from the win.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Butch: Smith is Lions' secret weapon</title>
+      <link>https://www.sarugbymag.co.za/butch-smith-lions-secret-weapon/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/butch-smith-lions-secret-weapon/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Former Springbok flyhalf Butch James discusses Lions captain Chris Smith's consistency and the team's forward development. He says the Lions must improve their away record, starting with upcoming URC trips to Scotland.</description>
+      <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
