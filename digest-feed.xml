@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:21:28 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -338,6 +338,114 @@
       <source>SA Rugby magazine</source>
       <description>Former Springbok flyhalf Butch James discusses Lions captain Chris Smith's consistency and the team's forward development. He says the Lions must improve their away record, starting with upcoming URC trips to Scotland.</description>
       <pubDate>Tue, 20 Oct 2026 06:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>China considers export controls on AI, chips</title>
+      <link>https://www.semafor.com/article/10/18/2026/china-mulls-ai-export-rules</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/10/18/2026/china-mulls-ai-export-rules</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.semafor.com/article/10/18/2026/china-mulls-ai-export-rules">Semafor</source>
+      <description>Reports that Beijing is weighing limits on how far its AI models and chips can be sold or deployed abroad. Raises the question of whether such rules would be enforceable or merely a bargaining chip.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Launches Super Intelligence Force + OpenAI Does More Math</title>
+      <link>https://www.csis.org/podcasts/ai-policy-podcast/trump-launches-super-intelligence-force-openai-does-more-math</link>
+      <guid isPermaLink="true">https://www.csis.org/podcasts/ai-policy-podcast/trump-launches-super-intelligence-force-openai-does-more-math</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.csis.org/podcasts/ai-policy-podcast/trump-launches-super-intelligence-force-openai-does-more-math">CSIS AI Policy Podcast</source>
+      <description>Podcast episode from CSIS discussing the new US government AI initiative and recent OpenAI developments, from a policy angle.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The World Is Building Sovereign AI, It May Still Be Borrowing Control</title>
+      <link>https://www.eurasiareview.com/11102026-the-world-is-building-sovereign-ai-it-may-still-be-borrowing-control-oped/</link>
+      <guid isPermaLink="true">https://www.eurasiareview.com/11102026-the-world-is-building-sovereign-ai-it-may-still-be-borrowing-control-oped/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.eurasiareview.com/11102026-the-world-is-building-sovereign-ai-it-may-still-be-borrowing-control-oped/">Eurasia Review</source>
+      <description>Op-ed arguing that owning chips, cloud and models does not give a state real control over AI systems. Proposes practical safeguards such as mapped authority, fallback modes and workable provider switching.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Money Supercharges Semiconductor Research Labs</title>
+      <link>https://spectrum.ieee.org/semiconductor-research</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/semiconductor-research</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://spectrum.ieee.org/semiconductor-research">IEEE Spectrum</source>
+      <description>Looks at how chip and equipment makers are putting billions into private R&amp;D on the back of AI demand, with Applied Materials' new California center as the example. Also covers how AI is used to speed up materials discovery and what it means for startups.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI substrate bottleneck shifts from design to manufacturing</title>
+      <link>https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html</link>
+      <guid isPermaLink="true">https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html">DIGITIMES</source>
+      <description>Industry report on advanced-package substrates, where the constraint on AI accelerators is moving from design work to actual production capacity.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week 42, 2026</title>
+      <link>https://thesemiconductornewsletter.substack.com/p/week-42-2026</link>
+      <guid isPermaLink="true">https://thesemiconductornewsletter.substack.com/p/week-42-2026</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://thesemiconductornewsletter.substack.com/p/week-42-2026">The Semiconductor Newsletter</source>
+      <description>Weekly roundup spanning lithography and test equipment, record foundry results, silicon carbide supply deals and new packaging power-delivery approaches.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix Revenue, Advertising Slowdown Rattles Wall Street as Growth Concerns Persist</title>
+      <link>https://www.thewrap.com/industry-news/business/netflix-earnings-q3-2026/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/netflix-earnings-q3-2026/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.thewrap.com/industry-news/business/netflix-earnings-q3-2026/">TheWrap</source>
+      <description>Covers Netflix's third-quarter results: a profit beat on roughly $12.9B revenue, but a lowered ad-sales target and softer fourth-quarter growth outlook that pushed the shares down.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hollywood's U.S. Production Share Plunges as Billions in Spending Move Abroad</title>
+      <link>https://eurweb.com/u-s-film-and-tv-production-decline/</link>
+      <guid isPermaLink="true">https://eurweb.com/u-s-film-and-tv-production-decline/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://eurweb.com/u-s-film-and-tv-production-decline/">EURweb</source>
+      <description>Summarizes a union-backed EY study showing the share of studio scripted budgets spent on US shoots falling sharply for both film and TV since 1999. Frames the data in the debate over a federal production tax credit.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMC Is Up 83% in 2026 and Cinemark Is Up 68%: Take Profits, or Hold On for the Ride?</title>
+      <link>https://247wallst.com/investing/2026/10/16/amc-is-up-83-in-2026-and-cinemark-is-up-68-take-profits-or-hold-on-for-the-ride/</link>
+      <guid isPermaLink="true">https://247wallst.com/investing/2026/10/16/amc-is-up-83-in-2026-and-cinemark-is-up-68-take-profits-or-hold-on-for-the-ride/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://247wallst.com/investing/2026/10/16/amc-is-up-83-in-2026-and-cinemark-is-up-68-take-profits-or-hold-on-for-the-ride/">24/7 Wall St.</source>
+      <description>Financial look at this year's rally in cinema-chain stocks versus the broader market. Weighs AMC's debt refinancing against its remaining leverage.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emotional Lions come up short in Champions Cup as tributes paid to Andrews</title>
+      <link>https://www.flashscore.com/news/rugby-union-european-rugby-champions-cup-emotional-lions-come-up-short-in-champions-cup-as-tributes-paid-to-andrews/SIxxAJjI/</link>
+      <guid isPermaLink="true">https://www.flashscore.com/news/rugby-union-european-rugby-champions-cup-emotional-lions-come-up-short-in-champions-cup-as-tributes-paid-to-andrews/SIxxAJjI/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.flashscore.com/news/rugby-union-european-rugby-champions-cup-emotional-lions-come-up-short-in-champions-cup-as-tributes-paid-to-andrews/SIxxAJjI/">Flashscore</source>
+      <description>Match report on the Lions' 31-14 loss at La Rochelle in their Champions Cup debut, played amid tributes to their late lock Hyron Andrews. La Rochelle led at the break and sealed a bonus point after half-time.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers hand Bristol Bears a Champions Cup reality check</title>
+      <link>https://www.rugbypass.com/news/stormers-hand-bristol-bears-a-champions-cup-reality-check/</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/stormers-hand-bristol-bears-a-champions-cup-reality-check/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.rugbypass.com/news/stormers-hand-bristol-bears-a-champions-cup-reality-check/">RugbyPass</source>
+      <description>Match report on the Stormers' 49-12 Champions Cup opener against Bristol in Cape Town. They scored seven tries despite a red card and a sin-binning.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rassie Erasmus Faces Injury Concerns as Key Springboks Stars Become Doubts for End of Year Tour</title>
+      <link>https://briefly.co.za/sports/rugby/256502-rassie-erasmus-faces-injury-concerns-key-springboks-stars-doubts-year-tour</link>
+      <guid isPermaLink="true">https://briefly.co.za/sports/rugby/256502-rassie-erasmus-faces-injury-concerns-key-springboks-stars-doubts-year-tour</guid>
+      <category>South African Rugby</category>
+      <source url="https://briefly.co.za/sports/rugby/256502-rassie-erasmus-faces-injury-concerns-key-springboks-stars-doubts-year-tour">Briefly</source>
+      <description>Rundown of injury doubts ahead of the Springboks' November tour, including Etzebeth, Kolbe and several long-term absentees, and what that means for selection.</description>
+      <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
