@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:31:07 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -446,6 +446,87 @@
       <source url="https://briefly.co.za/sports/rugby/256502-rassie-erasmus-faces-injury-concerns-key-springboks-stars-doubts-year-tour">Briefly</source>
       <description>Rundown of injury doubts ahead of the Springboks' November tour, including Etzebeth, Kolbe and several long-term absentees, and what that means for selection.</description>
       <pubDate>Wed, 21 Oct 2026 06:21:28 +0000</pubDate>
+    </item>
+      <item>
+      <title>China's outbound AI strategy starts with models and governance and ends with chips</title>
+      <link>https://www.bruegel.org/analysis/chinas-outbound-ai-strategy-starts-models-and-governance-and-ends-chips</link>
+      <guid isPermaLink="true">https://www.bruegel.org/analysis/chinas-outbound-ai-strategy-starts-models-and-governance-and-ends-chips</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Bruegel</source>
+      <description>Bruegel analysis of how China sequences its overseas AI push, leading with open-weight models and governance initiatives while its chips are not yet export-ready. It sets out what the authors think Europe should do in response.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia's China AI-chip share falls to 34% as Huawei reaches 28%</title>
+      <link>https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/</link>
+      <guid isPermaLink="true">https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>TechNode</source>
+      <description>Reports IDC figures showing Nvidia's slice of China's AI data-center accelerator market shrinking while Huawei and other domestic vendors gain. Links the shift to US export restrictions and the growth of local chipmakers.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI data centers are starved for power. Washington is scrambling to write new rules</title>
+      <link>https://qz.com/ferc-data-centers-ai-power-grid</link>
+      <guid isPermaLink="true">https://qz.com/ferc-data-centers-ai-power-grid</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Quartz</source>
+      <description>Looks at how federal regulators, state agencies and utilities are struggling to set rules for connecting power-hungry AI data centers to the grid. Covers rising electricity bills, voter anger and likely legal fights over regulatory authority.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASML Posts Record €11.7 Billion Q3 Sales as AI Demand Outruns Capacity</title>
+      <link>https://anysilicon.com/news/asml-posts-record-e11-7-billion-q3-sales-as-ai-demand-outruns-capacity/</link>
+      <guid isPermaLink="true">https://anysilicon.com/news/asml-posts-record-e11-7-billion-q3-sales-as-ai-demand-outruns-capacity/</guid>
+      <category>Chip Manufacturing</category>
+      <source>AnySilicon</source>
+      <description>Summarises ASML's record third-quarter results and raised full-year outlook. Notes the company's warning that lithography supply for 2027 and 2028 may not meet customer demand.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASML eyes hybrid bonding, report finds, as Chinese firms adopt chip packaging technique</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3371181/asml-eyes-hybrid-bonding-report-finds-chinese-firms-adopt-chip-packaging-technique</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3371181/asml-eyes-hybrid-bonding-report-finds-chinese-firms-adopt-chip-packaging-technique</guid>
+      <category>Chip Manufacturing</category>
+      <source>SCMP</source>
+      <description>Covers a SemiAnalysis report on ASML's patent filings and development work on hybrid bonding tools, a move from lithography into back-end packaging. Also notes growing adoption of the technique among Chinese chip companies.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese startup presents 15-watt EUV source prototype</title>
+      <link>https://bits-chips.com/?p=233872</link>
+      <guid isPermaLink="true">https://bits-chips.com/?p=233872</guid>
+      <category>Chip Manufacturing</category>
+      <source>Bits&amp;Chips</source>
+      <description>Describes a Tsinghua-linked startup's prototype EUV light source and its claimed output. Explains why the figures are hard to compare with ASML's sources and why the device looks suited to research rather than production.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Problem With Hollywood's Plan to Make Netflix Share the Wealth</title>
+      <link>https://puck.news/fin-syns-return-can-congress-regulate-streamers/</link>
+      <guid isPermaLink="true">https://puck.news/fin-syns-return-can-congress-regulate-streamers/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Puck</source>
+      <description>Examines a new Hollywood lobbying push for Congress to require big streamers to spend a share of original-content budgets on independent producers, modeled on old fin-syn rules. Considers the legal and regulatory hurdles. Partly paywalled.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>DC's 'Clayface' Cost $30 Million. Is This How to Fix Superhero Hell?</title>
+      <link>https://theankler.com/dcs-clayface-cost-30-million-is-this-how-to-fix-superhero-hell/</link>
+      <guid isPermaLink="true">https://theankler.com/dcs-clayface-cost-30-million-is-this-how-to-fix-superhero-hell/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>Looks at DC's bet on a low-budget, R-rated Batman-villain film as a way to keep using comic-book IP without large downside risk. Questions whether a lesser-known character can succeed. Partly paywalled.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of the URC: Bulls, Stormers flex muscles</title>
+      <link>https://www.sarugbymag.co.za/state-of-the-urc-bulls-stormers-flex-muscles/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/state-of-the-urc-bulls-stormers-flex-muscles/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Roundup of the latest United Rugby Championship round for the South African sides, including the Bulls and Stormers wins and how returning Springboks lifted them. Covers where they now sit on the log.</description>
+      <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
