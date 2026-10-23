@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:09:52 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -527,6 +527,105 @@
       <source>SA Rugby magazine</source>
       <description>Roundup of the latest United Rugby Championship round for the South African sides, including the Bulls and Stormers wins and how returning Springboks lifted them. Covers where they now sit on the log.</description>
       <pubDate>Thu, 22 Oct 2026 06:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can the UK drive middle power coordination on AI?</title>
+      <link>https://www.chathamhouse.org/2026/10/can-uk-drive-middle-power-coordination-ai</link>
+      <guid isPermaLink="true">https://www.chathamhouse.org/2026/10/can-uk-drive-middle-power-coordination-ai</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Chatham House</source>
+      <description>A Chatham House fellow argues the UK should help middle powers coordinate on frontier AI rather than lean on Washington, pointing to a multi-country statement on frontier controls and its 2027 G20 presidency. The piece also weighs how US and Chinese pressure could complicate such efforts.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>America's Preemption Gamble</title>
+      <link>https://www.theregreview.org/2026/10/07/ali-americas-preemption-gamble/</link>
+      <guid isPermaLink="true">https://www.theregreview.org/2026/10/07/ali-americas-preemption-gamble/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>The Regulatory Review</source>
+      <description>Contrasts a June 2026 House discussion draft that would pair federal safety duties for large AI developers with a pause on state rules against the EU's enforcement of its AI Act. The author argues federal standards should be a floor states can exceed, not a ceiling.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Silicon Fault Line: How Chips, Power and the Law Are Redrawing the Map of Global Power</title>
+      <link>https://www.faf.ae/home/2026/10/22/the-silicon-fault-line-how-chips-power-and-the-law-are-redrawing-the-map-of-global-power</link>
+      <guid isPermaLink="true">https://www.faf.ae/home/2026/10/22/the-silicon-fault-line-how-chips-power-and-the-law-are-redrawing-the-map-of-global-power</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Foreign Affairs Forum</source>
+      <description>Argues that rivalry over chips and AI compute now spans knowledge, manufacturing, enforcement, demand and energy, not just export controls. It draws on recent moves in China, Taiwan, Europe and the UK data-centre power debate.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infineon and Wolfspeed sign new multi-year 200mm silicon carbide wafer supply deal</title>
+      <link>https://semiconductor-today.com/news_items/2026/oct/wolfspeed-infineon-161026.shtml</link>
+      <guid isPermaLink="true">https://semiconductor-today.com/news_items/2026/oct/wolfspeed-infineon-161026.shtml</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Today</source>
+      <description>Reports that Infineon's silicon carbide substrate supply from Wolfspeed moves from 150mm to 200mm wafers under a new multi-year agreement. It ties the shift to demand from AI data centers, EVs, solar inverters and industrial drives.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab</title>
+      <link>https://tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028</link>
+      <guid isPermaLink="true">https://tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tom's Hardware</source>
+      <description>Covers Intel starting equipment installation at its Arizona Fab 62, a late-2028 operational target, and construction progress at its Ohio site. It also notes the company's statements on High-NA EUV use in volume production.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Industry Week In Review (Oct. 16)</title>
+      <link>https://semiengineering.com/chip-industry-week-in-review-160</link>
+      <guid isPermaLink="true">https://semiengineering.com/chip-industry-week-in-review-160</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Engineering</source>
+      <description>Weekly roundup spanning new fabs, packaging and test partnerships, China memory and EUV-source developments, TSMC and ASML results, and policy and supply-chain items.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Private Equity Reckoning After Hello Sunshine's Fall — and Who Wins</title>
+      <link>https://theankler.com/a-private-equity-reckoning-after-hello-sunshines-fall-and-who-wins/</link>
+      <guid isPermaLink="true">https://theankler.com/a-private-equity-reckoning-after-hello-sunshines-fall-and-who-wins/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>Examines the sale of Hello Sunshine back to its founder at a small fraction of its 2021 private-equity valuation. It asks what the markdown means for other star-led production companies and where investor capital goes next.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fall box office slows with two flops: 'Digger' and 'The Social Reckoning'</title>
+      <link>https://www.deseret.com/entertainment/2026/10/12/fall-box-office-slows-with-two-flops-digger-and-the-social-reckoning/</link>
+      <guid isPermaLink="true">https://www.deseret.com/entertainment/2026/10/12/fall-box-office-slows-with-two-flops-digger-and-the-social-reckoning/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Deseret News</source>
+      <description>Looks at a weak fall weekend, including a steep second-weekend drop and large projected losses for a big-budget Tom Cruise film. It contrasts a soft sequel opening with a modestly budgeted horror title that led the chart.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bester snatches dramatic Sharks win</title>
+      <link>https://www.sarugbymag.co.za/bester-snatches-dramatic-sharks-win-lyon/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/bester-snatches-dramatic-sharks-win-lyon/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Match report on the Sharks' 40-33 Challenge Cup win at Lyon, decided by a try after the final hooter following a late Lyon equaliser.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks ride Lyon momentum into tough Cardiff test</title>
+      <link>https://www.businessday.co.za/sport/rugby/2026-10-22-sharks-ride-lyon-momentum-into-tough-cardiff-test/</link>
+      <guid isPermaLink="true">https://www.businessday.co.za/sport/rugby/2026-10-22-sharks-ride-lyon-momentum-into-tough-cardiff-test/</guid>
+      <category>South African Rugby</category>
+      <source>BusinessDay</source>
+      <description>Previews the Sharks' URC trip to Cardiff after the Lyon win, looking at the set-piece matchup and the expected kicking-heavy, difficult-conditions contest.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>SA's URC teams face northern examination as club season ramps up</title>
+      <link>https://dailymaverick.co.za/article/2026-10-21-sas-urc-teams-face-northern-examination-as-club-season-ramps-up</link>
+      <guid isPermaLink="true">https://dailymaverick.co.za/article/2026-10-21-sas-urc-teams-face-northern-examination-as-club-season-ramps-up</guid>
+      <category>South African Rugby</category>
+      <source>Daily Maverick</source>
+      <description>Surveys how South Africa's four URC sides stand early in 2026/27, with all in the top half, and the demanding away fixtures awaiting the Sharks and Lions.</description>
+      <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
