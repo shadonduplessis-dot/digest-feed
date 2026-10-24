@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:30:40 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -716,6 +716,33 @@
       <source>Rugby365</source>
       <description>Opinion piece on how Rassie Erasmus is building Springbok depth gradually rather than replacing veterans wholesale. Reviews recent debutants and who looks set to form the next core group.</description>
       <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Listened to Over 7 Hours of Peter Thiel's Leaked Antichrist Lectures. They're Surprisingly Libertarian.</title>
+      <link>https://reason.com/2025/10/14/i-listened-to-over-7-hours-of-peter-thiels-leaked-antichrist-lectures-theyre-surprisingly-libertarian/</link>
+      <guid isPermaLink="true">https://reason.com/2025/10/14/i-listened-to-over-7-hours-of-peter-thiels-leaked-antichrist-lectures-theyre-surprisingly-libertarian/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Reason</source>
+      <description>A close read of Peter Thiel's lecture series on the Antichrist, focused on how his warnings about world government and technology regulation fit or clash with libertarian thinking. Includes his views on empire, financial surveillance and individual choice.</description>
+      <pubDate>Sat, 24 Oct 2026 08:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump 2.0 Runs on Tech Accelerationism</title>
+      <link>https://techpolicy.press/trump-20-runs-on-tech-accelerationism</link>
+      <guid isPermaLink="true">https://techpolicy.press/trump-20-runs-on-tech-accelerationism</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Tech Policy Press</source>
+      <description>Essay tracing how accelerationist ideas moved from fringe circles into Silicon Valley and the second Trump administration. Argues AI deployment in government concentrates power and weakens democratic accountability.</description>
+      <pubDate>Sat, 24 Oct 2026 08:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Religion: Thiel's 'Antichrist' obsession</title>
+      <link>https://www.theweek.com/religion/peter-thiel-ai-antichrist-obsession</link>
+      <guid isPermaLink="true">https://www.theweek.com/religion/peter-thiel-ai-antichrist-obsession</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>The Week</source>
+      <description>Roundup of critical reactions to Thiel's Antichrist lectures, from historians and clergy to commentators on his own influence. Useful as a quick map of the main objections to his framing of AI and regulation.</description>
+      <pubDate>Sat, 24 Oct 2026 08:30:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
