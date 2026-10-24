@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:29:33 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -626,6 +626,96 @@
       <source>Daily Maverick</source>
       <description>Surveys how South Africa's four URC sides stand early in 2026/27, with all in the top half, and the demanding away fixtures awaiting the Sharks and Lions.</description>
       <pubDate>Fri, 23 Oct 2026 06:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>SemiAnalysis Pegs China Datacenter Capacity at 24GW, US at 56GW</title>
+      <link>https://aiweekly.co/alerts/semianalysis-pegs-china-datacenter-capacity-at-24gw-us-at-56gw</link>
+      <guid isPermaLink="true">https://aiweekly.co/alerts/semianalysis-pegs-china-datacenter-capacity-at-24gw-us-at-56gw</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>AI Weekly (citing SemiAnalysis)</source>
+      <description>Summarises SemiAnalysis's new model of China's data-centre buildout, comparing delivered capacity with the US and noting that chip supply rather than power is the binding limit. Also covers the tenants renting that capacity and the capex of China's biggest tech firms.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Competing AI strategies for the US and China</title>
+      <link>https://www.brookings.edu/articles/competing-ai-strategies-for-the-us-and-china/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/competing-ai-strategies-for-the-us-and-china/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Brookings</source>
+      <description>Congressional testimony comparing how Washington and Beijing are pursuing AI, with China taking a full-stack, application-focused approach. It weighs what export controls have and haven't achieved and what the US should prioritise at home.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>How can Europe address its pressing artificial-intelligence compute infrastructure shortfall?</title>
+      <link>https://www.bruegel.org/sites/default/files/2026-09/PB%2018%202026.pdf</link>
+      <guid isPermaLink="true">https://www.bruegel.org/sites/default/files/2026-09/PB%2018%202026.pdf</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Bruegel</source>
+      <description>A policy brief sizing the EU's share of global AI compute against the US and China, and arguing that permitting speed and grid access matter more than money. It critiques sovereignty rules and subsidy design and proposes alternatives.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why TSMC is Turning to GlobalFoundries for CoWoS Interposers</title>
+      <link>https://www.eetasia.com/why-tsmc-is-turning-to-globalfoundries-for-cowos-interposers/</link>
+      <guid isPermaLink="true">https://www.eetasia.com/why-tsmc-is-turning-to-globalfoundries-for-cowos-interposers/</guid>
+      <category>Chip Manufacturing</category>
+      <source>EE Times Asia</source>
+      <description>Explains why TSMC is outsourcing part of its advanced-packaging interposer supply to a mature-node foundry. Covers the timing, the qualification and yield caveats, and why it is a medium-term capacity fix.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan's $15 billion Rapidus chip bet hinges on winning customers</title>
+      <link>https://www.khaleejtimes.com/business/japans-15-billion-rapidus-chip-bet-hinges-on-winning-customers</link>
+      <guid isPermaLink="true">https://www.khaleejtimes.com/business/japans-15-billion-rapidus-chip-bet-hinges-on-winning-customers</guid>
+      <category>Chip Manufacturing</category>
+      <source>Reuters (via Khaleej Times)</source>
+      <description>Looks at Japan's state-backed 2-nanometre foundry effort and its push to line up design partners before production starts. Analysts quoted question whether real customer demand and stable yields will follow.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEMI Forecasts 11.8% Growth in Silicon Wafer Shipments in 2026, With Record Highs Expected through 2029</title>
+      <link>https://www.semi.org/en/semi-press-release/semi-forecasts-11.8-percent-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029</link>
+      <guid isPermaLink="true">https://www.semi.org/en/semi-press-release/semi-forecasts-11.8-percent-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029</guid>
+      <category>Chip Manufacturing</category>
+      <source>SEMI</source>
+      <description>Industry-group forecast for silicon wafer volumes through 2029, with AI-driven demand for epitaxial and memory wafers as the main driver. Gives the yearly shipment outlook and what the figures include.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Nielsen Keeps Publishing 'The Gouge'</title>
+      <link>https://www.mediapost.com/publications/article/417301/why-nielsen-keeps-publishing-the-gouge.html</link>
+      <guid isPermaLink="true">https://www.mediapost.com/publications/article/417301/why-nielsen-keeps-publishing-the-gouge.html</guid>
+      <category>Film &amp; Streaming</category>
+      <source>MediaPost</source>
+      <description>Commentary on Nielsen's monthly Gauge and doubts about its streaming-versus-linear comparisons. Considers how the reports affected ad negotiations and why a recalibration was delayed.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>When to Stream's Weekly Tracking Report - 10/16/26</title>
+      <link>https://whentostream.com/when-to-streams-weekly-tracking-report-10-16-26/</link>
+      <guid isPermaLink="true">https://whentostream.com/when-to-streams-weekly-tracking-report-10-16-26/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>When To Stream</source>
+      <description>A weekly tracker of upcoming digital and PVOD dates for studio films, useful for comparing how long each studio waits after theatrical release. Notes which titles moved sooner after weak box office.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks player ratings: Springboks-in-waiting wreak havoc as teenager and bullish forward shine in victory over Cardiff</title>
+      <link>https://www.planetrugby.com/news/sharks-player-ratings-springboks-in-waiting-wreak-havoc-as-teenager-and-bullish-forward-shine-in-victory-over-cardiff</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/sharks-player-ratings-springboks-in-waiting-wreak-havoc-as-teenager-and-bullish-forward-shine-in-victory-over-cardiff</guid>
+      <category>South African Rugby</category>
+      <source>Planet Rugby</source>
+      <description>Player-by-player ratings for the Sharks' URC win at Cardiff on 23 October, the most recent South African match. Highlights the standout performers in the 36-21 result.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Boks' next generation shapes up leading to 2027 World Cup</title>
+      <link>https://rugby365.com/tournaments/nations-championship/how-boks-next-generation-shapes-up-leading-up-to-2027-world-cup/</link>
+      <guid isPermaLink="true">https://rugby365.com/tournaments/nations-championship/how-boks-next-generation-shapes-up-leading-up-to-2027-world-cup/</guid>
+      <category>South African Rugby</category>
+      <source>Rugby365</source>
+      <description>Opinion piece on how Rassie Erasmus is building Springbok depth gradually rather than replacing veterans wholesale. Reviews recent debutants and who looks set to form the next core group.</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
