@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:04:28 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -743,6 +743,114 @@
       <source>The Week</source>
       <description>Roundup of critical reactions to Thiel's Antichrist lectures, from historians and clergy to commentators on his own influence. Useful as a quick map of the main objections to his framing of AI and regulation.</description>
       <pubDate>Sat, 24 Oct 2026 08:30:40 +0000</pubDate>
+    </item>
+      <item>
+      <title>America's AI Action Plan After One Year: What the Administration Has Done, and What Comes Next</title>
+      <link>https://www.wilsoncenter.org/article/americas-ai-action-plan-after-one-year-what-administration-has-done-and-what-comes-next</link>
+      <guid isPermaLink="true">https://www.wilsoncenter.org/article/americas-ai-action-plan-after-one-year-what-administration-has-done-and-what-comes-next</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Wilson Center</source>
+      <description>An audit of how far the US AI Action Plan's many recommendations have progressed a year on. Finds most show partial movement, largely through guidance and announcements, with built infrastructure and procurement results still pending.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>The national security implications of building frontier AI data centers overseas</title>
+      <link>https://www.brookings.edu/articles/the-national-security-implications-of-building-frontier-ai-data-centers-overseas/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/the-national-security-implications-of-building-frontier-ai-data-centers-overseas/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Brookings</source>
+      <description>A scoping paper arguing that where advanced AI infrastructure is hosted is now a security question as well as a commercial one. It sketches risks such as sabotage, foreign legal access and host-country leverage, and previews a research series on which workloads belong where.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a surge in defence and dual-use technology investment could reconfigure the global AI race</title>
+      <link>https://www.chathamhouse.org/2026/04/how-surge-defence-and-dual-use-technology-investment-could-reconfigure-global-ai-race/02</link>
+      <guid isPermaLink="true">https://www.chathamhouse.org/2026/04/how-surge-defence-and-dual-use-technology-investment-could-reconfigure-global-ai-race/02</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Chatham House</source>
+      <description>A research paper on four trends, including military AI funding, tighter tech-government ties and sovereign AI efforts, that could fragment a field now led by the US and China. Also weighs valuation-bubble risks and offers recommendations for private-sector actors.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[News] Musk Targets Terafab Chip Volume Production in 3Q28, First SRAM Test Chip by Mid-2027</title>
+      <link>https://www.trendforce.com/news/?p=65584</link>
+      <guid isPermaLink="true">https://www.trendforce.com/news/?p=65584</guid>
+      <category>Chip Manufacturing</category>
+      <source>TrendForce</source>
+      <description>Covers the timeline for Musk's Terafab venture, with a test chip planned in Austin before volume output. Highlights equipment supply from ASML and US toolmakers and the unresolved roles of TSMC and Intel as the main hurdles.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foundries And OSATs Increasingly Overlap</title>
+      <link>https://semiengineering.com/foundries-and-osats-increasingly-overlap/</link>
+      <guid isPermaLink="true">https://semiengineering.com/foundries-and-osats-increasingly-overlap/</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Engineering</source>
+      <description>Explains how limited foundry capacity is pushing advanced back-end work such as 2.5D and panel-level assembly toward outsourced assembly and test providers. Describes the resulting blurring of the line between the two business models.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan Offers GlobalFoundries $21B for U.S. Fab Expansion</title>
+      <link>https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/</link>
+      <guid isPermaLink="true">https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/</guid>
+      <category>Chip Manufacturing</category>
+      <source>EE Times</source>
+      <description>Looks at a Japanese financing pledge for two new fabs at GlobalFoundries' New York site and the claimed boost to US capacity. Notes analyst concerns about the company's growing reliance on government backing.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wall Street Bets on Box Office Resurgence</title>
+      <link>https://www.thewrap.com/industry-news/business/wall-street-movie-theaters-2026-2027-outlook/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/wall-street-movie-theaters-2026-2027-outlook/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TheWrap</source>
+      <description>Looks at how a strong 2026 box office and a rally in exhibitor stocks are shaping analyst forecasts for 2027 and 2028. Compares more bullish and more cautious views on how much upside remains.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix's Peter Rice Risk: Studio Insider, But Streaming Outsider</title>
+      <link>https://theankler.com/netflixs-peter-rice-risk-studio-insider-but-streaming-outsider/</link>
+      <guid isPermaLink="true">https://theankler.com/netflixs-peter-rice-risk-studio-insider-but-streaming-outsider/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>Assesses Netflix's choice of a veteran broadcast and studio executive to run global content, using views from former colleagues and rivals. Weighs his talent relationships against limited experience with data-driven streaming as the service faces share and cost pressures.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix Explains How It Will Fix Its Growth Problem. Wall Street Isn't Convinced</title>
+      <link>https://www.thewrap.com/industry-news/business/netflix-explains-growth-problem-fixes-wall-street-not-convinced-analysis/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/netflix-explains-growth-problem-fixes-wall-street-not-convinced-analysis/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TheWrap (analysis)</source>
+      <description>Analysis of Netflix's slowest revenue growth in years and the levers management says it will pull, including licensing, add-ons and advertising. Explains why investors and analysts remain skeptical.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls player ratings: Springboks star puts pressure on Rassie Erasmus while Marcell Coetzee 'punishes' Ulster</title>
+      <link>https://www.planetrugby.com/news/bulls-player-ratings-springboks-star-puts-pressure-on-rassie-erasmus-while-marcell-coetzee-punishes-ulster</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/bulls-player-ratings-springboks-star-puts-pressure-on-rassie-erasmus-while-marcell-coetzee-punishes-ulster</guid>
+      <category>South African Rugby</category>
+      <source>Planet Rugby</source>
+      <description>Individual ratings for the Bulls after their 34-26 URC win over Ulster at Loftus Versfeld, the most recent match played. Picks out standout Springbok-level performances relevant to national selection.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks trounce Cardiff, but suffer Giant loss</title>
+      <link>https://www.sarugbymag.co.za/sharks-trounce-cardiff-lose-captain-esterhuizen/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/sharks-trounce-cardiff-lose-captain-esterhuizen/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Match report on the Sharks' six-try, bonus-point URC win away to Cardiff. Also covers captain Andre Esterhuizen's early injury and what it could mean for the Springboks' end-of-year matches.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks bring back 3 Springboks for URC mission against 'quality team'</title>
+      <link>https://www.rugbypass.com/news/sharks-bring-back-3-springboks-for-cardiff-mission-in-urc/</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/sharks-bring-back-3-springboks-for-cardiff-mission-in-urc/</guid>
+      <category>South African Rugby</category>
+      <source>RugbyPass</source>
+      <description>Team news ahead of the Sharks' trip to Cardiff, with three Springboks recalled and Esterhuizen back as captain. Includes the coaching staff's view of the opposition.</description>
+      <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
