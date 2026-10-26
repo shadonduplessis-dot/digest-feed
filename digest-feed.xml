@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:12:24 GMT</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -851,6 +851,87 @@
       <source>RugbyPass</source>
       <description>Team news ahead of the Sharks' trip to Cardiff, with three Springboks recalled and Esterhuizen back as captain. Includes the coaching staff's view of the opposition.</description>
       <pubDate>Sun, 25 Oct 2026 07:04:28 +0000</pubDate>
+    </item>
+      <item>
+      <title>US Tech Searches for Rules on AI: China Already Has Them</title>
+      <link>https://consortiumnews.com/2026/10/13/us-tech-searches-for-rules-on-ai-china-already-has-them/</link>
+      <guid isPermaLink="true">https://consortiumnews.com/2026/10/13/us-tech-searches-for-rules-on-ai-china-already-has-them/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Consortium News (via The Conversation)</source>
+      <description>A UCL academic traces the stages of China's AI regulation up to its latest safety governance framework. She weighs what that means for the US market-led approach.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tokenpolitik: How the United States Can Compete with China to Build the Global AI Stack</title>
+      <link>https://www.csis.org/analysis/tokenpolitik-how-united-states-can-compete-china-build-global-ai-stack</link>
+      <guid isPermaLink="true">https://www.csis.org/analysis/tokenpolitik-how-united-states-can-compete-china-build-global-ai-stack</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>CSIS</source>
+      <description>CSIS commentary framing US-China AI competition as a contest over infrastructure exports. It proposes a coordinated government strategy for financing and partnering on datacenters and power abroad.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>A summer of AI summits reveals a widening US-China divide</title>
+      <link>https://www.brookings.edu/articles/a-summer-of-ai-summits-reveals-a-widening-us-china-divide/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/a-summer-of-ai-summits-reveals-a-widening-us-china-divide/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Brookings</source>
+      <description>Briefing guide surveying the international AI governance meetings of summer 2026 and the competing US and Chinese initiatives. It closes with discussion questions on where the divide could deepen.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel CTO: EUV Tool Shortage Caps AI Chip Supply Growth at Roughly Double</title>
+      <link>https://www.techtimes.com/articles/329442/20261023/intel-cto-euv-tool-shortage-caps-ai-chip-supply-growth-roughly-double.htm</link>
+      <guid isPermaLink="true">https://www.techtimes.com/articles/329442/20261023/intel-cto-euv-tool-shortage-caps-ai-chip-supply-growth-roughly-double.htm</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tech Times</source>
+      <description>Reports an Intel executive's argument that limited EUV lithography tool output constrains how fast advanced chip supply can grow. It covers ASML delivery pace, lead times and other bottlenecks.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lam Research Sinks 9% as Supply Constraints Cap Outlook; Applied Materials Drops 6%, ASML Holding Falls 4%</title>
+      <link>https://247wallst.com/investing/2026/10/22/lam-research-sinks-9-as-supply-constraints-cap-outlook-applied-materials-drops-6-asml-holding-falls-4/</link>
+      <guid isPermaLink="true">https://247wallst.com/investing/2026/10/22/lam-research-sinks-9-as-supply-constraints-cap-outlook-applied-materials-drops-6-asml-holding-falls-4/</guid>
+      <category>Chip Manufacturing</category>
+      <source>24/7 Wall St.</source>
+      <description>Covers Lam Research's record quarter, its cautious guidance tied to supply constraints, and the sell-off across equipment makers. Includes the company's early view of 2027 fab equipment spending and China exposure.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>How and When the Memory Chip Shortage Will End</title>
+      <link>https://spectrum.ieee.org/dram-shortage</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/dram-shortage</guid>
+      <category>Chip Manufacturing</category>
+      <source>IEEE Spectrum</source>
+      <description>Explains why AI demand for high-bandwidth memory has tightened DRAM supply and how new fabs and packaging advances might ease it. Discusses timelines and the risk of a later bust.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix and Disney Are Scrambling to Survive</title>
+      <link>https://slate.com/business/2026/10/netflix-disney-layoffs-skydance-david-ellison.html</link>
+      <guid isPermaLink="true">https://slate.com/business/2026/10/netflix-disney-layoffs-skydance-david-ellison.html</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Slate</source>
+      <description>Argues that Netflix and Disney are restructuring as Paramount closes its Warner Bros. Discovery deal. Covers layoffs, a licensing partnership and the political backdrop.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stormers player ratings: Springboks rookie leads from the front in crazy triumph against the Scarlets</title>
+      <link>https://www.planetrugby.com/news/stormers-player-ratings-springboks-rookie-leads-from-the-front-in-crazy-triumph-against-the-scarlets</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/stormers-player-ratings-springboks-rookie-leads-from-the-front-in-crazy-triumph-against-the-scarlets</guid>
+      <category>South African Rugby</category>
+      <source>Planet Rugby</source>
+      <description>Player-by-player ratings for the Stormers after their high-scoring URC win over the Scarlets on 24 October.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's official: Kwagga's a Bull</title>
+      <link>https://www.sarugbymag.co.za/its-official-kwaggas-a-bull/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/its-official-kwaggas-a-bull/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby magazine</source>
+      <description>Reports the Bulls signing Springbok loose forward Kwagga Smith from Japan on a three-year deal. Covers his injury timeline and the coach's comments.</description>
+      <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
