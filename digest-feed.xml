@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:15:16 GMT</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -932,6 +932,114 @@
       <source>SA Rugby magazine</source>
       <description>Reports the Bulls signing Springbok loose forward Kwagga Smith from Japan on a three-year deal. Covers his injury timeline and the coach's comments.</description>
       <pubDate>Mon, 26 Oct 2026 07:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Gulf has billions to spend on AI. It still needs Nvidia</title>
+      <link>https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/</link>
+      <guid isPermaLink="true">https://restofworld.org/2026/gulf-ai-investment-nvidia-monopoly-blackwell/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Rest of World</source>
+      <description>Looks at Saudi Arabia and the UAE trying to diversify AI chip purchases beyond one supplier. Explains how weaker alternatives, US export rules, shared supply bottlenecks and software lock-in keep them reliant on Nvidia.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>EU AI Act's High-Risk Deadline: Deferred, Not Cancelled</title>
+      <link>https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-high-risk-deadline-omnibus-20260/</link>
+      <guid isPermaLink="true">https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-high-risk-deadline-omnibus-20260/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Cloud Security Alliance</source>
+      <description>A research note on the Digital Omnibus regulation that pushed back compliance dates for high-risk AI systems into 2027 and 2028. It sets out which obligations, such as general-purpose model rules and prohibited practices, stay on their original timelines.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Will China Crack Down on Open-Weight Models?</title>
+      <link>https://www.techpolicy.press/will-china-crack-down-on-open-weight-models/</link>
+      <guid isPermaLink="true">https://www.techpolicy.press/will-china-crack-down-on-open-weight-models/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Tech Policy Press</source>
+      <description>An analysis of Beijing's tension between promoting open-weight AI and tightening security control. Considers why restrictions haven't come yet and which kinds of incidents could change that.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Large-Format Masks Move From Aspiration To Industry Roadmap</title>
+      <link>https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/</link>
+      <guid isPermaLink="true">https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Engineering</source>
+      <description>Reports on an industry survey and panel about moving to larger photomasks for High-NA EUV lithography. Discusses the 2031 pilot-line goal and the single-source suppliers and process hurdles that must line up first.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[News] After TSMC's 3Q26 Earnings: Key Brokerage Takeaways as 2028 Capex Forecasts Reach US$105B</title>
+      <link>https://www.trendforce.com/news/2026/10/16/news-after-tsmcs-3q26-earnings-key-brokerage-takeaways-as-2028-capex-forecasts-reach-us105b/</link>
+      <guid isPermaLink="true">https://www.trendforce.com/news/2026/10/16/news-after-tsmcs-3q26-earnings-key-brokerage-takeaways-as-2028-capex-forecasts-reach-us105b/</guid>
+      <category>Chip Manufacturing</category>
+      <source>TrendForce</source>
+      <description>Summarizes how foreign brokerages read TSMC's latest quarter, including raised growth outlooks and higher capital-spending estimates for 2027-2028. Notes margin pressure from the 2nm ramp as the main concern.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hanmi Semiconductor Cements TC Bonder Leadership at SEMICON West as HBM4 Orders Surge</title>
+      <link>https://www.techtimes.com/articles/329060/20261015/hanmi-semiconductor-cements-tc-bonder-leadership-semicon-west-hbm4-orders-surge.htm</link>
+      <guid isPermaLink="true">https://www.techtimes.com/articles/329060/20261015/hanmi-semiconductor-cements-tc-bonder-leadership-semicon-west-hbm4-orders-surge.htm</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tech Times</source>
+      <description>Profiles Hanmi's thermal compression bonding tools for high-bandwidth memory stacking, shown at SEMICON West. Covers its market position, a large SK hynix order and its expansion plans.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>What to know about the landmark Warner Bros. Discovery sale</title>
+      <link>https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TechCrunch</source>
+      <description>A timeline of Paramount's acquisition of Warner Bros. Discovery, from the competing Netflix bid through regulatory approval, state litigation and closing. Highlights the combined company's debt load and expected cost cuts.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paramount Shows Streaming Progress as it Tiptoes Around Warner Bros. Merger Lawsuit</title>
+      <link>https://www.thewrap.com/industry-news/business/paramount-earnings-q2-2026/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/paramount-earnings-q2-2026/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>TheWrap</source>
+      <description>Reviews Paramount's second-quarter results, with streaming profit rising on Paramount+ growth. Also covers executives' confidence in the Warner Bros. Discovery deal despite a legal challenge and a trial set for 2027.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Box Office Is Bad. Streaming Films Are So-So. I Have a Win-Win Solution</title>
+      <link>https://theankler.com/box-office-is-bad-streaming-films/</link>
+      <guid isPermaLink="true">https://theankler.com/box-office-is-bad-streaming-films/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>A data-driven argument from Entertainment Strategy Guy that big straight-to-streaming films left substantial box office money on the table. Weighs theatrical versus streaming outcomes for studios and talent.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bulls make heavy weather of Ulster win</title>
+      <link>https://supersport.com/rugby/news/1c65c505-85d2-4337-b611-81ba8b6ee385/loftus-battle-bulls-make-heavy-weather-of-ulster-win</link>
+      <guid isPermaLink="true">https://supersport.com/rugby/news/1c65c505-85d2-4337-b611-81ba8b6ee385/loftus-battle-bulls-make-heavy-weather-of-ulster-win</guid>
+      <category>South African Rugby</category>
+      <source>SuperSport</source>
+      <description>Match report on the Bulls' URC home win over Ulster at Loftus Versfeld. Describes the early lead, Ulster's second-half fightback and the late kick that settled it.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everitt's Edinburgh stay top as Lions crumble in Scotland</title>
+      <link>https://rugby365.com/tournaments/united-rugby-championship/everitts-edinburgh-stay-top-as-lions-crumble-in-scotland/</link>
+      <guid isPermaLink="true">https://rugby365.com/tournaments/united-rugby-championship/everitts-edinburgh-stay-top-as-lions-crumble-in-scotland/</guid>
+      <category>South African Rugby</category>
+      <source>Rugby365</source>
+      <description>Match report on the Lions' round-four URC defeat at Edinburgh. Covers the close first half and the home side's second-half try surge that kept them unbeaten.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SA Rugby's R2bn commercial rise after record sponsorship revenues</title>
+      <link>https://www.dailymaverick.co.za/article/2026-09-07-r739m-sponsorship-power-play-the-boks-are-a-big-bucks-business/</link>
+      <guid isPermaLink="true">https://www.dailymaverick.co.za/article/2026-09-07-r739m-sponsorship-power-play-the-boks-are-a-big-bucks-business/</guid>
+      <category>South African Rugby</category>
+      <source>Daily Maverick</source>
+      <description>Looks at SA Rugby's sponsorship revenue overtaking broadcast income for the first time. Explains the bundled commercial model and key partners such as Airlink and Pick n Pay.</description>
+      <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
