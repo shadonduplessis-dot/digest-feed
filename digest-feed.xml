@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:21:58 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1040,6 +1040,78 @@
       <source>Daily Maverick</source>
       <description>Looks at SA Rugby's sponsorship revenue overtaking broadcast income for the first time. Explains the bundled commercial model and key partners such as Airlink and Pick n Pay.</description>
       <pubDate>Tue, 27 Oct 2026 07:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The $10 trillion question: Financing the AI buildout</title>
+      <link>https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/</link>
+      <guid isPermaLink="true">https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/">Brookings</source>
+      <description>Podcast episode discussing a Brookings paper that projects roughly $10 trillion of US AI data-center, power and chip spending through 2032. Looks at how joint ventures, leases and private credit finance it and why disclosure matters.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speed Isn't Working as an AI Strategy. The U.S. Has a Better Option.</title>
+      <link>https://carnegieendowment.org/emissary/2026/10/ai-strategy-us-speed-stronger-society</link>
+      <guid isPermaLink="true">https://carnegieendowment.org/emissary/2026/10/ai-strategy-us-speed-stronger-society</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://carnegieendowment.org/emissary/2026/10/ai-strategy-us-speed-stronger-society">Carnegie Endowment</source>
+      <description>Argues that a speed-first US AI strategy is getting harder to sustain as risks mount. Proposes building national strength through institutions and societal resilience instead.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is sprinting past human control. Can testing and evaluation catch up?</title>
+      <link>https://www.atlanticcouncil.org/blogs/geotech-cues/ai-is-sprinting-past-human-control-can-testing-and-evaluation-catch-up/</link>
+      <guid isPermaLink="true">https://www.atlanticcouncil.org/blogs/geotech-cues/ai-is-sprinting-past-human-control-can-testing-and-evaluation-catch-up/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.atlanticcouncil.org/blogs/geotech-cues/ai-is-sprinting-past-human-control-can-testing-and-evaluation-catch-up/">Atlantic Council</source>
+      <description>Examines weaknesses in how frontier AI models are tested, from contaminated benchmarks to models that game evaluations. Makes the case for a national assurance system and international cooperation.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glass substrate roadmaps examined: Absolics in final qualification and a first product that keeps slipping</title>
+      <link>https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined">Tom's Hardware</source>
+      <description>Reviews where glass-core packaging substrates stand across Absolics, Samsung, TSMC, Intel and others. Notes repeated schedule slips and the milestones to watch.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How 'You Can See Everything' Shattered Box Office Records</title>
+      <link>https://www.thewrap.com/creative-content/movies/you-can-see-everything-why-box-office-success/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/creative-content/movies/you-can-see-everything-why-box-office-success/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.thewrap.com/creative-content/movies/you-can-see-everything-why-box-office-success/">TheWrap</source>
+      <description>Explains how A24's Elizabeth Holmes documentary posted one of the biggest documentary openings in years. Credits a secretive marketing campaign, its star's online following and strong audience scores.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Digger" To Lose Warner's $150 Million?</title>
+      <link>https://www.darkhorizons.com/?p=194935</link>
+      <guid isPermaLink="true">https://www.darkhorizons.com/?p=194935</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.darkhorizons.com/?p=194935">Dark Horizons</source>
+      <description>Summarises projections that Warner Bros.' Tom Cruise film could be 2026's biggest box-office loss. Covers the weak projected opening and the estimated deficit.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crocked Boks a blessing in disguise</title>
+      <link>https://www.sarugbymag.co.za/crocked-boks-blessing-disguise/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/crocked-boks-blessing-disguise/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.sarugbymag.co.za/crocked-boks-blessing-disguise/">SA Rugby magazine</source>
+      <description>Column arguing that injuries to senior Springboks give the coach a chance to test new combinations and younger players. Names several emerging talents who deserve a look.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>URC roundup: Three out of four for SA teams as they count the injury cost</title>
+      <link>https://www.citizen.co.za/sport/rugby/three-out-four-sa-teams-urc/</link>
+      <guid isPermaLink="true">https://www.citizen.co.za/sport/rugby/three-out-four-sa-teams-urc/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.citizen.co.za/sport/rugby/three-out-four-sa-teams-urc/">The Citizen</source>
+      <description>Round-up of the South African sides' URC weekend, with three wins and a heavy Lions defeat in Edinburgh. Also tallies the injuries picked up by several squads.</description>
+      <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
