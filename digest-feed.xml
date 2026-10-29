@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:34:08 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1112,6 +1112,42 @@
       <source url="https://www.citizen.co.za/sport/rugby/three-out-four-sa-teams-urc/">The Citizen</source>
       <description>Round-up of the South African sides' URC weekend, with three wins and a heavy Lions defeat in Edinburgh. Also tallies the injuries picked up by several squads.</description>
       <pubDate>Wed, 28 Oct 2026 07:21:58 +0000</pubDate>
+    </item>
+      <item>
+      <title>Analysis: China's new export curbs draw a line around its AI crown jewels</title>
+      <link>https://whbl.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/</link>
+      <guid isPermaLink="true">https://whbl.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Reuters (via WHBL)</source>
+      <description>Explains a draft Chinese rule set that would restrict transfers of core AI technology while leaving access to Chinese models through websites and cloud services, with public comment open into November.</description>
+      <pubDate>Thu, 29 Oct 2026 07:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel Advances Arizona and Ohio Fabs and Confirms High-NA EUV in Production</title>
+      <link>https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tom's Hardware</source>
+      <description>Covers tool installation at Intel's Arizona Fab 62, construction progress in Ohio, and the company's statement that High-NA EUV is now part of its volume manufacturing plans.</description>
+      <pubDate>Thu, 29 Oct 2026 07:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biggest Streaming Movies Q3 Shock: Peacock Tops</title>
+      <link>https://theankler.com/biggest-streaming-movies-q3-shock-peacock-tops/</link>
+      <guid isPermaLink="true">https://theankler.com/biggest-streaming-movies-q3-shock-peacock-tops/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>The Ankler</source>
+      <description>Newsletter item on Nielsen's Q3 streaming-movie rankings, comparing first-weeks viewing of theatrical titles across Peacock, Disney+, Netflix and Prime Video, plus other industry business notes.</description>
+      <pubDate>Thu, 29 Oct 2026 07:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rassie injects talented youth into Springbok squad for Nations Championship finale</title>
+      <link>https://www.dailymaverick.co.za/article/2026-10-28-rassie-injects-talented-youth-into-springbok-squad-for-nations-championship-finale/</link>
+      <guid isPermaLink="true">https://www.dailymaverick.co.za/article/2026-10-28-rassie-injects-talented-youth-into-springbok-squad-for-nations-championship-finale/</guid>
+      <category>South African Rugby</category>
+      <source>Daily Maverick</source>
+      <description>Looks at the 37-man Springbok squad for the November Nations Championship matches, its uncapped additions and the injury absences behind the selections.</description>
+      <pubDate>Thu, 29 Oct 2026 07:34:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
