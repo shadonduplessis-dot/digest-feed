@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:33:23 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1148,6 +1148,78 @@
       <source>Daily Maverick</source>
       <description>Looks at the 37-man Springbok squad for the November Nations Championship matches, its uncapped additions and the injury absences behind the selections.</description>
       <pubDate>Thu, 29 Oct 2026 07:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sovereignty by the Megawatt: The New Geopolitics of Supercomputing - Part IV</title>
+      <link>https://www.faf.ae/home/2026/10/24/sovereignty-by-the-megawatt-the-new-geopolitics-of-supercomputing-part-iv</link>
+      <guid isPermaLink="true">https://www.faf.ae/home/2026/10/24/sovereignty-by-the-megawatt-the-new-geopolitics-of-supercomputing-part-iv</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Foreign Affairs Forum</source>
+      <description>Surveys October supercomputing announcements across Germany, the US, India, France and Sweden and argues compute is spreading across jurisdictions while accelerator supply stays concentrated. Also raises energy-grid, post-quantum security and access-allocation concerns.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>26 State AGs Urge Congress to Regulate Frontier AI and Preserve State Authority</title>
+      <link>https://www.regulatoryoversight.com/2026/10/26-state-ags-urge-congress-to-regulate-frontier-ai-and-preserve-state-authority/</link>
+      <guid isPermaLink="true">https://www.regulatoryoversight.com/2026/10/26-state-ags-urge-congress-to-regulate-frontier-ai-and-preserve-state-authority/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Regulatory Oversight</source>
+      <description>A law-firm blog explains a bipartisan letter from 26 state attorneys general seeking federal frontier-AI rules without preempting state enforcement. It lays out the six elements the coalition wants in any national framework.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a record</title>
+      <link>https://investinglive.com/stocks/asml-says-2027-and-2028-supply-will-fall-short-of-demand-as-q3-sales-hit-a-record/</link>
+      <guid isPermaLink="true">https://investinglive.com/stocks/asml-says-2027-and-2028-supply-will-fall-short-of-demand-as-q3-sales-hit-a-record/</guid>
+      <category>Chip Manufacturing</category>
+      <source>investingLive</source>
+      <description>Summarizes ASML's record third quarter, its fourth-quarter and full-year guidance, and its warning that planned 2027-28 lithography capacity will not cover customer demand. Notes the services business lifting margins.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging</title>
+      <link>https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/</link>
+      <guid isPermaLink="true">https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Digest</source>
+      <description>Equipment engineers explain why packaging lithography prioritizes overlay accuracy, throughput and thermal stability over feature shrink as substrates move from wafers to large panels. Describes stage design approaches to limit drift.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test</title>
+      <link>https://semiengineering.com/from-process-learning-to-production-control-trends-in-advanced-packaging-and-implications-to-characterization-and-test/</link>
+      <guid isPermaLink="true">https://semiengineering.com/from-process-learning-to-production-control-trends-in-advanced-packaging-and-implications-to-characterization-and-test/</guid>
+      <category>Chip Manufacturing</category>
+      <source>Semiconductor Engineering</source>
+      <description>A vendor presentation on how 2.5D, CoWoS, hybrid bonding and 3D stacking create yield and defect issues unlike front-end logic. Outlines an analytics and metrology approach to ramping packaging processes.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Box Office Could Top $28 Billion By End Of Year</title>
+      <link>https://www.forbes.com/sites/markhughes/2026/10/29/2026-box-office-could-top-28-billion-by-end-of-year/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/markhughes/2026/10/29/2026-box-office-could-top-28-billion-by-end-of-year/</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Forbes</source>
+      <description>Tallies year-to-date domestic and worldwide grosses against post-Covid records and pre-pandemic benchmarks, then projects year-end totals. Considers why even a record year trails the 2010s.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers outlast Scarlets 52-40 in wild Cape Town clash</title>
+      <link>https://www.businessday.co.za/sport/rugby/2026-10-24-stormers-outlast-scarlets-52-40-in-wild-cape-town-clash/</link>
+      <guid isPermaLink="true">https://www.businessday.co.za/sport/rugby/2026-10-24-stormers-outlast-scarlets-52-40-in-wild-cape-town-clash/</guid>
+      <category>South African Rugby</category>
+      <source>Business Day</source>
+      <description>Match report on a 14-try URC game in Cape Town in which the Stormers built a big first-half lead, were pegged back level, and won through late tries.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPINION: Kwagga's return highlights SA's bloated loosie state</title>
+      <link>https://www.citizen.co.za/sport/rugby/kwagga-smith-return-bulls-sa-bloated-loose-forward/</link>
+      <guid isPermaLink="true">https://www.citizen.co.za/sport/rugby/kwagga-smith-return-bulls-sa-bloated-loose-forward/</guid>
+      <category>South African Rugby</category>
+      <source>The Citizen</source>
+      <description>A column on Kwagga Smith's move to the Bulls and what the depth of loose forwards at South African URC sides means for players seeking game time.</description>
+      <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
