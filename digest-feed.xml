@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:00:00 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1220,6 +1220,24 @@
       <source>The Citizen</source>
       <description>A column on Kwagga Smith's move to the Bulls and what the depth of loose forwards at South African URC sides means for players seeking game time.</description>
       <pubDate>Fri, 30 Oct 2026 07:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung to Use TSMC for Base Die in Nvidia's Custom HBM</title>
+      <link>https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm</link>
+      <guid isPermaLink="true">https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm">Seoul Economic Daily</source>
+      <description>Reports that Nvidia is asking memory makers to standardize on a common base-die process and core DRAM node for its custom high-bandwidth memory. Covers what that means for Samsung's foundry unit and its dependence on TSMC capacity.</description>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of the URC: Sharks bite, Lions bruised</title>
+      <link>https://www.sarugbymag.co.za/state-urc-sharks-bite-lions-bruised/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/state-urc-sharks-bite-lions-bruised/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.sarugbymag.co.za/state-urc-sharks-bite-lions-bruised/">SA Rugby magazine</source>
+      <description>Round-four review of the South African sides in the United Rugby Championship, with the Bulls, Stormers and Sharks collecting bonus-point wins while the Lions slipped. Includes the standings picture and a look ahead to round five.</description>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
