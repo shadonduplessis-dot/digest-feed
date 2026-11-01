@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 07:12:14 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1238,6 +1238,33 @@
       <source url="https://www.sarugbymag.co.za/state-urc-sharks-bite-lions-bruised/">SA Rugby magazine</source>
       <description>Round-four review of the South African sides in the United Rugby Championship, with the Bulls, Stormers and Sharks collecting bonus-point wins while the Lions slipped. Includes the standings picture and a look ahead to round five.</description>
       <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets</title>
+      <link>https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations">Tom's Hardware</source>
+      <description>Reports that TSMC is asking equipment suppliers for factory automation gear with motors free of rare-earth magnets. The aim is to reduce fab exposure to China's dominance of that supply chain and to potential export restrictions.</description>
+      <pubDate>Sun, 01 Nov 2026 07:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix sees revenue jump 12 percent in Q3; execs admit more work needed on engagement</title>
+      <link>https://thedesk.net/2026/10/netflix-q3-2026-earnings-report/</link>
+      <guid isPermaLink="true">https://thedesk.net/2026/10/netflix-q3-2026-earnings-report/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://thedesk.net/2026/10/netflix-q3-2026-earnings-report/">The Desk</source>
+      <description>Rundown of Netflix's third-quarter 2026 results, with revenue up roughly 12% to about $12.9 billion and sharply higher operating income and net income. Notes management's acknowledgement that viewing-hours growth still needs work.</description>
+      <pubDate>Sun, 01 Nov 2026 07:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls player ratings: Bomb Squad 'utterly demolishes' Scarlets after 'mediocre' performances from Springboks duo</title>
+      <link>https://www.planetrugby.com/news/bulls-player-ratings-bomb-squad-utterly-demolishes-scarlets-after-mediocre-performances-from-springboks-duo</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/bulls-player-ratings-bomb-squad-utterly-demolishes-scarlets-after-mediocre-performances-from-springboks-duo</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.planetrugby.com/news/bulls-player-ratings-bomb-squad-utterly-demolishes-scarlets-after-mediocre-performances-from-springboks-duo">Planet Rugby</source>
+      <description>Individual player ratings for the Bulls after their URC Round 5 win over the Scarlets on 31 October, the most recent SA match with ratings published. Highlights the impact of the replacements and a couple of underwhelming Springbok displays.</description>
+      <pubDate>Sun, 01 Nov 2026 07:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
