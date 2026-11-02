@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 07:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:21:14 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1265,6 +1265,87 @@
       <source url="https://www.planetrugby.com/news/bulls-player-ratings-bomb-squad-utterly-demolishes-scarlets-after-mediocre-performances-from-springboks-duo">Planet Rugby</source>
       <description>Individual player ratings for the Bulls after their URC Round 5 win over the Scarlets on 31 October, the most recent SA match with ratings published. Highlights the impact of the replacements and a couple of underwhelming Springbok displays.</description>
       <pubDate>Sun, 01 Nov 2026 07:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Governs the Machine? Sovereignty, Power, and the Reordering of Authority in the Age of Frontier AI</title>
+      <link>https://www.hudson.org/technology/who-governs-machine-sovereignty-power-reordering-authority-age-frontier-ai-tsiphorah-fried</link>
+      <guid isPermaLink="true">https://www.hudson.org/technology/who-governs-machine-sovereignty-power-reordering-authority-age-frontier-ai-tsiphorah-fried</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>Hudson Institute</source>
+      <description>A Hudson fellow&#x27;s essay on how frontier AI is being treated as a strategic national asset, using the Pentagon-Anthropic dispute and export-control shocks to ask who holds legitimate authority over leading models. Compares US and European approaches to governance and dependence.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The battle for AI sovereignty</title>
+      <link>https://www.gisreportsonline.com/r/ai-sovereignty/</link>
+      <guid isPermaLink="true">https://www.gisreportsonline.com/r/ai-sovereignty/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>GIS Reports</source>
+      <description>Argues that Western governments are moving from regulating AI firms toward steering them through procurement and security designations. Lays out four scenarios for how state control over strategic AI developers could evolve.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal</title>
+      <link>https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/</link>
+      <guid isPermaLink="true">https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source>The Intercept</source>
+      <description>Reporting based on FOIA-obtained defense contracts with major AI labs, covering what the labs agreed to provide and how the later classified-network deals came about. Includes criticism from researchers about oversight and conflicts of interest.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers</title>
+      <link>https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined</guid>
+      <category>Chip Manufacturing</category>
+      <source>Tom&#x27;s Hardware</source>
+      <description>Walks through Japan&#x27;s Rapidus plan for 2nm production: pilot line status, capacity ramp, government funding, customer talks and the gap to TSMC and Samsung. Focuses on the financing and timeline risks.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASML&#x27;s High-NA EUV for 2027-28: Which Giants Are Betting Big—Intel, Samsung, SK hynix or TSMC?</title>
+      <link>https://www.trendforce.com/news/2026/02/16/news-asmls-high-na-euv-for-2027-28-which-giants-are-betting-big-intel-samsung-sk-hynix-or-tsmc/</link>
+      <guid isPermaLink="true">https://www.trendforce.com/news/2026/02/16/news-asmls-high-na-euv-for-2027-28-which-giants-are-betting-big-intel-samsung-sk-hynix-or-tsmc/</guid>
+      <category>Chip Manufacturing</category>
+      <source>TrendForce</source>
+      <description>Surveys which chipmakers are adopting ASML&#x27;s High-NA EUV lithography tools and on what timelines, for both logic and DRAM. Notes the high tool cost and TSMC&#x27;s reported decision to skip it at 1.4nm.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming Year in Review 2026</title>
+      <link>https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Streaming-Year-in-Review-2026-173826.aspx</link>
+      <guid isPermaLink="true">https://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Streaming-Year-in-Review-2026-173826.aspx</guid>
+      <category>Film &amp; Streaming</category>
+      <source>Streaming Media</source>
+      <description>A look back at the streaming business, arguing YouTube&#x27;s rise on TV screens may be as important as the Netflix rivalry. Covers the Warner Bros. bidding contest, content spending and the strategies of Peacock, Apple, Amazon and Disney.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sharks player ratings vs Munster</title>
+      <link>https://www.rugbypass.com/news/sharks-player-ratings-vs-munster-2026-27-urc/</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/sharks-player-ratings-vs-munster-2026-27-urc/</guid>
+      <category>South African Rugby</category>
+      <source>RugbyPass</source>
+      <description>Player-by-player ratings for the Sharks&#x27; 15-3 URC win at Thomond Park in wet conditions. Singles out the standout attackers, a key lineout steal and the bench&#x27;s impact.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>State of the URC: SA trio sitting pretty</title>
+      <link>https://www.sarugbymag.co.za/state-of-the-urc-sa-trio-sitting-pretty/</link>
+      <guid isPermaLink="true">https://www.sarugbymag.co.za/state-of-the-urc-sa-trio-sitting-pretty/</guid>
+      <category>South African Rugby</category>
+      <source>SA Rugby Magazine</source>
+      <description>Round-five review of the South African URC sides ahead of the Nations Championship break, covering the Bulls, Stormers and Sharks results and the Lions&#x27; slide. Previews the December derbies.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers v Ulster: Winners and losers as Springboks duo and freak make it Halloween nightmare for visitors</title>
+      <link>https://www.planetrugby.com/news/stormers-v-ulster-winners-and-losers-as-springboks-duo-and-freak-make-it-halloween-nightmare-for-visitors</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/stormers-v-ulster-winners-and-losers-as-springboks-duo-and-freak-make-it-halloween-nightmare-for-visitors</guid>
+      <category>South African Rugby</category>
+      <source>Planet Rugby</source>
+      <description>Match-day winners-and-losers rundown from the Stormers&#x27; home win over Ulster. Picks out the standout individuals and who struggled.</description>
+      <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
