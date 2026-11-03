@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:23:04 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1346,6 +1346,114 @@
       <source>Planet Rugby</source>
       <description>Match-day winners-and-losers rundown from the Stormers&#x27; home win over Ulster. Picks out the standout individuals and who struggled.</description>
       <pubDate>Mon, 02 Nov 2026 07:21:14 +0000</pubDate>
+    </item>
+      <item>
+      <title>The Coming AI Backlash</title>
+      <link>https://www.cfr.org/articles/the-coming-ai-backlash</link>
+      <guid isPermaLink="true">https://www.cfr.org/articles/the-coming-ai-backlash</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.cfr.org/articles/the-coming-ai-backlash">Council on Foreign Relations</source>
+      <description>A CFR fellow argues AI is likely to become a major issue in the 2028 US election and sets out a three-part policy approach covering safety rules, sharing economic gains, and keeping a lead over China.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The PRC's Compute Push Goes Global</title>
+      <link>https://www.realcleardefense.com/china/articles/the-prcs-compute-push-goes-global-2026-10-08</link>
+      <guid isPermaLink="true">https://www.realcleardefense.com/china/articles/the-prcs-compute-push-goes-global-2026-10-08</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.realcleardefense.com/china/articles/the-prcs-compute-push-goes-global-2026-10-08">RealClearDefense (China Brief)</source>
+      <description>Examines how China is trying to sell computing capacity abroad, either as remote services or by deploying domestic chips overseas, despite its own hardware shortages. The author sees growing ambition but no sign China has escaped its constraints.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI's real bottleneck is electricity. Who will pay for it?</title>
+      <link>https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it">Al Jazeera</source>
+      <description>An opinion column on how data-center power demand is driving long-term nuclear deals, who may end up covering the grid costs, and what Gulf states pursuing AI hubs should settle on pricing and funding.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Industry Week In Review</title>
+      <link>https://semiengineering.com/chip-industry-week-in-review-162/</link>
+      <guid isPermaLink="true">https://semiengineering.com/chip-industry-week-in-review-162/</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://semiengineering.com/chip-industry-week-in-review-162/">Semiconductor Engineering</source>
+      <description>A weekly roundup spanning Intel's 18A progress, new GaN power capacity plans, equipment-maker partnerships, advanced-packaging demand, and memory supply constraints.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory">Tom's Hardware</source>
+      <description>Reports on an October accident at Intel's Fab 28 in Israel, the roughly two-week halt, and Intel's estimate of the revenue and margin hit to its 10nm server chip supply.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Equipment Stocks Rally as SK Hynix Signals Memory Shortage Into 2030</title>
+      <link>https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/</link>
+      <guid isPermaLink="true">https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/">24/7 Wall St.</source>
+      <description>Looks at how a long memory-shortage outlook lifted toolmakers such as Lam Research, Applied Materials and KLA, with notes on DRAM equipment demand and supply-chain limits.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 76 Biggest Film Flops on Streaming in the First Half of 2026</title>
+      <link>https://entertainmentstrategyguy.com/?p=15696</link>
+      <guid isPermaLink="true">https://entertainmentstrategyguy.com/?p=15696</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://entertainmentstrategyguy.com/?p=15696">The Entertainment Strategy Guy</source>
+      <description>A viewership-based review of the weakest-performing streaming films of early 2026, explaining the hour thresholds used to define a miss and how each streamer fared. Full list is for subscribers.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix (NFLX) Q3 2026 Earnings Preview: Revenue, Guidance</title>
+      <link>https://www.hudson-labs.com/research/netflix-q3-2026-earnings-preview-nflx-revenue-guidance</link>
+      <guid isPermaLink="true">https://www.hudson-labs.com/research/netflix-q3-2026-earnings-preview-nflx-revenue-guidance</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.hudson-labs.com/research/netflix-q3-2026-earnings-preview-nflx-revenue-guidance">Hudson Labs</source>
+      <description>A pre-earnings look at Netflix's 2026 guidance, including revenue growth, operating margin, an expected doubling of ad revenue, content spend and viewing-hours trends.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disney Sets Date for Full Fiscal 2026 Earnings Report</title>
+      <link>https://blogmickey.com/2026/10/disney-sets-date-for-full-fiscal-2026-earnings-report/</link>
+      <guid isPermaLink="true">https://blogmickey.com/2026/10/disney-sets-date-for-full-fiscal-2026-earnings-report/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://blogmickey.com/2026/10/disney-sets-date-for-full-fiscal-2026-earnings-report/">BlogMickey</source>
+      <description>Gives the November 17 date for Disney's fiscal-year results and recaps the company's recent Experiences segment revenue and operating income figures and its guidance.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers player ratings vs Ulster | 2026/27 URC</title>
+      <link>https://www.rugbypass.com/news/stormers-player-ratings-vs-ulster-2026-27-urc/</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/stormers-player-ratings-vs-ulster-2026-27-urc/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.rugbypass.com/news/stormers-player-ratings-vs-ulster-2026-27-urc/">RugbyPass</source>
+      <description>Individual ratings for the Stormers after their 31 October URC win over Ulster in Cape Town, noting the scrum, standout forwards and the costly turnovers.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Munster v Sharks: Five takeaways as 'electric' youngster provides the 'stardust' in wet-weather horror show for hosts</title>
+      <link>https://www.planetrugby.com/news/munster-v-sharks-five-takeaways-as-electric-youngster-provides-the-stardust-in-wet-weather-horror-show-for-hosts</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/munster-v-sharks-five-takeaways-as-electric-youngster-provides-the-stardust-in-wet-weather-horror-show-for-hosts</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.planetrugby.com/news/munster-v-sharks-five-takeaways-as-electric-youngster-provides-the-stardust-in-wet-weather-horror-show-for-hosts">Planet Rugby</source>
+      <description>Match analysis of the Sharks' 15-3 URC win at Thomond Park in poor weather, with a young Sharks player singled out.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Six players earn first Bok call-up as Nations Championship squad named</title>
+      <link>https://www.timeslive.co.za/sport/rugby/2026-10-28-six-players-earn-first-bok-call-up-as-nations-championship-squad-named/</link>
+      <guid isPermaLink="true">https://www.timeslive.co.za/sport/rugby/2026-10-28-six-players-earn-first-bok-call-up-as-nations-championship-squad-named/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.timeslive.co.za/sport/rugby/2026-10-28-six-players-earn-first-bok-call-up-as-nations-championship-squad-named/">TimesLIVE</source>
+      <description>Covers Rassie Erasmus's squad for the final Nations Championship Tests, which mixes six first-time selections with experienced World Cup winners.</description>
+      <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
