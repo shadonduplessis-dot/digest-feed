@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:07:44 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1454,6 +1454,60 @@
       <source url="https://www.timeslive.co.za/sport/rugby/2026-10-28-six-players-earn-first-bok-call-up-as-nations-championship-squad-named/">TimesLIVE</source>
       <description>Covers Rassie Erasmus's squad for the final Nations Championship Tests, which mixes six first-time selections with experienced World Cup winners.</description>
       <pubDate>Tue, 03 Nov 2026 07:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Middle Powers Can Survive the AI Race</title>
+      <link>https://carnegieendowment.org/research/2026/10/ai-frontier-technology-middle-power-countries-four-scenarios</link>
+      <guid isPermaLink="true">https://carnegieendowment.org/research/2026/10/ai-frontier-technology-middle-power-countries-four-scenarios</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://carnegieendowment.org/research/2026/10/ai-frontier-technology-middle-power-countries-four-scenarios">Carnegie Endowment</source>
+      <description>Scenario analysis of how countries outside the US and China might position themselves as frontier AI concentrates, built on two variables: pace of progress and the performance gap over cheaper models.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel 14A moves closer to production as PDK 0.9 becomes available</title>
+      <link>https://tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027</link>
+      <guid isPermaLink="true">https://tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027">Tom&#x27;s Hardware</source>
+      <description>Covers Intel Foundry&#x27;s release of the 14A design kit, the 2027 timeline to risk and volume production, and the lack of named external customers so far.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hollywood&#x27;s U.S. production share has plunged over 25 years, union study finds</title>
+      <link>https://reel360.com/article/hollywoods-u-s-production-share-has-plunged-over-25-years-union-study-finds/</link>
+      <guid isPermaLink="true">https://reel360.com/article/hollywoods-u-s-production-share-has-plunged-over-25-years-union-study-finds/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://reel360.com/article/hollywoods-u-s-production-share-has-plunged-over-25-years-union-study-finds/">Reel 360</source>
+      <description>Summarizes a union-commissioned EY study on the falling US share of studio film and TV production spending and jobs, and the proposed federal tax credit unions are backing.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stormers vs Ulster player ratings: United Rugby Championship</title>
+      <link>https://www.ruck.co.uk/rugby-news/stormers-vs-ulster-player-ratings-united-rugby-championship</link>
+      <guid isPermaLink="true">https://www.ruck.co.uk/rugby-news/stormers-vs-ulster-player-ratings-united-rugby-championship</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.ruck.co.uk/rugby-news/stormers-vs-ulster-player-ratings-united-rugby-championship">Ruck</source>
+      <description>Player-by-player ratings from the Stormers&#x27; 33-7 URC win over Ulster on 31 October, the latest round before the November break.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>URC result: Spirited Lions fall short in Glasgow thriller</title>
+      <link>https://www.citizen.co.za/sport/rugby/spirited-lions-fall-short-in-glasgow-thriller-urc-rugby/</link>
+      <guid isPermaLink="true">https://www.citizen.co.za/sport/rugby/spirited-lions-fall-short-in-glasgow-thriller-urc-rugby/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.citizen.co.za/sport/rugby/spirited-lions-fall-short-in-glasgow-thriller-urc-rugby/">The Citizen</source>
+      <description>Match report on the Lions&#x27; 29-20 away loss to Glasgow Warriors, their third straight defeat on the European tour.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rassie Erasmus Warns Springboks Ahead of 3 Massive European Tests</title>
+      <link>https://briefly.co.za/sports/rugby/257434-rassie-erasmus-warns-springboks-3-massive-european-tests/</link>
+      <guid isPermaLink="true">https://briefly.co.za/sports/rugby/257434-rassie-erasmus-warns-springboks-3-massive-european-tests/</guid>
+      <category>South African Rugby</category>
+      <source url="https://briefly.co.za/sports/rugby/257434-rassie-erasmus-warns-springboks-3-massive-european-tests/">Briefly</source>
+      <description>Previews the Springboks&#x27; November tour against Italy, France and Ireland, the coach&#x27;s comments on the standings, and the injury absentees.</description>
+      <pubDate>Wed, 04 Nov 2026 07:07:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
