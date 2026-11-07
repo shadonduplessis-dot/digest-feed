@@ -5,7 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:09:11 +0000</lastBuildDate>
     <item>
       <title>The monster Chris Hansen sees in Primetime, explained</title>
       <link>https://filmcolossus.com/primetime-monster-hansen/</link>
@@ -1643,6 +1643,114 @@
       <source url="https://www.businessday.co.za/sport/soccer/2026-11-06-boks-focus-on-italy-as-nations-championship-chase-heats-up/">BusinessDay</source>
       <description>Covers the Springboks' Nations Championship standing ahead of Italy and a player's comments on the title goal. Also notes two incoming domestic-club signings.</description>
       <pubDate>Fri, 06 Nov 2026 07:08:39 +0000</pubDate>
+    </item>
+      <item>
+      <title>Scaling Sovereign Wealth: Evaluating Mechanisms for the U.S. Government to Own Parts of AI Companies</title>
+      <link>https://www.lawfaremedia.org/article/scaling-sovereign-wealth--evaluating-mechanisms-for-the-u.s.-government-to-own-parts-of-ai-companies</link>
+      <guid isPermaLink="true">https://www.lawfaremedia.org/article/scaling-sovereign-wealth--evaluating-mechanisms-for-the-u.s.-government-to-own-parts-of-ai-companies</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.lawfaremedia.org/article/scaling-sovereign-wealth--evaluating-mechanisms-for-the-u.s.-government-to-own-parts-of-ai-companies">Lawfare</source>
+      <description>A legal-policy look at ways the US government could take financial stakes in AI firms, weighing structures aimed at public returns against those aimed at oversight. The author argues for combining revenue sharing with a special veto-style share.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foreign Espionage of US Frontier AI Labs</title>
+      <link>https://sentinelgeopolitics.substack.com/p/foreign-espionage-of-us-frontier</link>
+      <guid isPermaLink="true">https://sentinelgeopolitics.substack.com/p/foreign-espionage-of-us-frontier</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://sentinelgeopolitics.substack.com/p/foreign-espionage-of-us-frontier">Sentinel Geopolitics</source>
+      <description>An independent analysis of how foreign states try to extract capabilities and information from leading US AI labs, and why open access to models creates exposure. It closes with security recommendations such as stronger identity checks and shared threat intelligence.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Sovereignty: The next frontier of global power</title>
+      <link>https://interface.media/blog/2026/10/14/ai-sovereignty-the-next-frontier-of-global-power/</link>
+      <guid isPermaLink="true">https://interface.media/blog/2026/10/14/ai-sovereignty-the-next-frontier-of-global-power/</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://interface.media/blog/2026/10/14/ai-sovereignty-the-next-frontier-of-global-power/">Interface</source>
+      <description>An opinion-style essay arguing that AI sovereignty covers compute, governance and data ecosystems, not just data residency. It discusses the strategic risk for countries reliant on a few foreign providers and options for reducing dependence.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI boom turns chip packaging into the next battleground for semiconductors</title>
+      <link>https://mediaselangor.com/en/2026/11/405313</link>
+      <guid isPermaLink="true">https://mediaselangor.com/en/2026/11/405313</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://mediaselangor.com/en/2026/11/405313">Reuters (via Media Selangor)</source>
+      <description>Wire report on how AI demand has made advanced packaging a bottleneck, with chip designers, Taiwanese suppliers and equipment makers adding capacity while TSMC keeps the technical lead.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trumpf plasma generator business redirects to semiconductor production</title>
+      <link>https://bits-chips.com/article/trumpf-plasma-generator-business-redirects-to-semiconductor-production/</link>
+      <guid isPermaLink="true">https://bits-chips.com/article/trumpf-plasma-generator-business-redirects-to-semiconductor-production/</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://bits-chips.com/article/trumpf-plasma-generator-business-redirects-to-semiconductor-production/">Bits&amp;Chips</source>
+      <description>Covers Trumpf's shift of its plasma power-supply unit toward chipmaking equipment, with series production moving to Poland while R&amp;D stays in Germany.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infineon Preps 300mm GaN Fab</title>
+      <link>https://marklapedus.substack.com/p/infineon-preps-300mm-gan-fab</link>
+      <guid isPermaLink="true">https://marklapedus.substack.com/p/infineon-preps-300mm-gan-fab</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://marklapedus.substack.com/p/infineon-preps-300mm-gan-fab">Semiecosystem</source>
+      <description>Reports on Infineon's plan for a 300mm gallium nitride power-chip facility in Austria, including the investment size, production timeline and EU Chips Act state aid.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Loves Theaters — for 47 Days</title>
+      <link>https://theankler.com/amazon-loves-theaters-for-47-days/</link>
+      <guid isPermaLink="true">https://theankler.com/amazon-loves-theaters-for-47-days/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://theankler.com/amazon-loves-theaters-for-47-days/">The Ankler</source>
+      <description>Examines Amazon's theatrical strategy as a marketing runway for Prime Video, using a recent big-budget release to compare box office results with streaming viewership after the window.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Letterboxd Finalizing $330 Million Sale to The New York Times</title>
+      <link>https://finance.yahoo.com/media-advertising/articles/letterboxd-finalizing-330-million-sale-235222054.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/media-advertising/articles/letterboxd-finalizing-330-million-sale-235222054.html</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://finance.yahoo.com/media-advertising/articles/letterboxd-finalizing-330-million-sale-235222054.html">IndieWire (via Yahoo Finance)</source>
+      <description>Reports on the New York Times' reported deal to buy a controlling stake in Letterboxd, with the valuation set against its earnings and its earlier sale price, plus rival bidders.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix's Plan to Buy Radford Studios Lot Stalls</title>
+      <link>https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls/">TheWrap</source>
+      <description>Covers stalled talks for Netflix to buy a Los Angeles studio lot and what it means for production real estate and Netflix's existing lease commitments.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The odd maths of a Nations Championship final berth</title>
+      <link>https://www.dailymaverick.co.za/article/2026-11-01-the-odd-maths-of-a-nations-championship-final-berth</link>
+      <guid isPermaLink="true">https://www.dailymaverick.co.za/article/2026-11-01-the-odd-maths-of-a-nations-championship-final-berth</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.dailymaverick.co.za/article/2026-11-01-the-odd-maths-of-a-nations-championship-final-berth">Daily Maverick</source>
+      <description>Analysis of how the Nations Championship format sets up South Africa and New Zealand to compete for effectively one southern final place, and how the Boks' European tour affects their chances.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>South African franchises flying high in URC as November break offers time to regroup</title>
+      <link>https://thenational.co.za/sport/2026-11-02-south-african-franchises-flying-high-in-urc-as-november-break-offers-time-to-regroup/</link>
+      <guid isPermaLink="true">https://thenational.co.za/sport/2026-11-02-south-african-franchises-flying-high-in-urc-as-november-break-offers-time-to-regroup/</guid>
+      <category>South African Rugby</category>
+      <source url="https://thenational.co.za/sport/2026-11-02-south-african-franchises-flying-high-in-urc-as-november-break-offers-time-to-regroup/">The National</source>
+      <description>A URC state-of-play piece on the South African sides after five rounds, with the Bulls, Stormers and Sharks near the top and the Lions struggling, ahead of the November pause.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Springboks set for Italian Job in Nations Championship showdown</title>
+      <link>https://www.theathlete.co.za/2026/11/06/springboks-italy-nations-championship-preview-2026/</link>
+      <guid isPermaLink="true">https://www.theathlete.co.za/2026/11/06/springboks-italy-nations-championship-preview-2026/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.theathlete.co.za/2026/11/06/springboks-italy-nations-championship-preview-2026/">The Athlete</source>
+      <description>Previews the Springboks' Turin match against Italy, looking at Italy's attacking approach, selection decisions and what the Boks need to do.</description>
+      <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
