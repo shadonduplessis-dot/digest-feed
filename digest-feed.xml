@@ -5,52 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 07:09:11 +0000</lastBuildDate>
-    <item>
-      <title>The monster Chris Hansen sees in Primetime, explained</title>
-      <link>https://filmcolossus.com/primetime-monster-hansen/</link>
-      <guid isPermaLink="true">https://filmcolossus.com/primetime-monster-hansen/</guid>
-      <category>Film &amp; Streaming</category>
-      <source url="https://filmcolossus.com/primetime-monster-hansen/">Film Colossus</source>
-      <description>Film analysis of the 'monster' motif in Primetime, the Chris Hansen / To Catch a Predator drama. Argues the creature reflects Hansen's own moral certainty and ratings desperation, and reads the film as a parallel to post-9/11 'with us or against us' thinking.</description>
-      <pubDate>Sun, 18 Oct 2026 15:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing Friction</title>
-      <link>https://designingfriction.com/</link>
-      <guid isPermaLink="true">https://designingfriction.com/</guid>
-      <category>AI &amp; Geopolitics</category>
-      <source url="https://designingfriction.com/">Luna Maurer &amp; Roel Wouters</source>
-      <description>A design manifesto arguing digital products should build in resistance, delay and discomfort as a counterweight to frictionless, algorithm-driven UX, in order to preserve human autonomy and deeper engagement.</description>
-      <pubDate>Sun, 18 Oct 2026 15:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>How are countries evaluating AI models?</title>
-      <link>https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/</link>
-      <guid isPermaLink="true">https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/</guid>
-      <category>AI &amp; Geopolitics</category>
-      <source url="https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/">Brookings</source>
-      <description>Brookings Institution analysis of how different governments approach testing and assessing AI models, and what the differing methods mean for international cooperation on AI governance.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feeding the beast: Energy security as a precondition for the EU's AI power</title>
-      <link>https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power</link>
-      <guid isPermaLink="true">https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power</guid>
-      <category>AI &amp; Geopolitics</category>
-      <source url="https://www.iss.europa.eu/publications/briefs/feeding-beast-energy-security-precondition-eus-ai-power">EU Institute for Security Studies</source>
-      <description>Policy brief on how electricity access shapes the global AI race, covering Europe's energy costs, grid limits and import dependence, and how data centre siting might turn these constraints into a strength.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The State of AI Global Governance and Its Implications for the U.S.-China Summit</title>
-      <link>https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit</link>
-      <guid isPermaLink="true">https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit</guid>
-      <category>AI &amp; Geopolitics</category>
-      <source url="https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit">CSIS</source>
-      <description>Survey of competing international AI governance efforts, including Chinese and US-led initiatives, UN processes and the EU AI Act, with recommendations for US policymakers ahead of bilateral talks.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 07:07:39 +0000</lastBuildDate>
     <item>
       <title>TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential</title>
       <link>https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html</link>
@@ -1751,6 +1706,105 @@
       <source url="https://www.theathlete.co.za/2026/11/06/springboks-italy-nations-championship-preview-2026/">The Athlete</source>
       <description>Previews the Springboks' Turin match against Italy, looking at Italy's attacking approach, selection decisions and what the Boks need to do.</description>
       <pubDate>Sat, 07 Nov 2026 07:09:11 +0000</pubDate>
+    </item>
+      <item>
+      <title>Settlement and Governance Behind the AI Frontier</title>
+      <link>https://www.rand.org/pubs/perspectives/PEA5380-1.html</link>
+      <guid isPermaLink="true">https://www.rand.org/pubs/perspectives/PEA5380-1.html</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.rand.org/pubs/perspectives/PEA5380-1.html">RAND</source>
+      <description>Richard Danzig's essay argues AI governance should extend beyond frontier models to open-weight models, agents and everyday applications. He contends that because the technology copies easily and spreads cheaply, ordinary capabilities could combine into a diffuse collective intelligence needing new governance ideas.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI infrastructure under scrutiny: A view from the Gulf</title>
+      <link>https://www.arabnews.com/opinion/ai-infrastructure-under-scrutiny-a-view-from-the-gulf-3009874</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/ai-infrastructure-under-scrutiny-a-view-from-the-gulf-3009874</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.arabnews.com/opinion/ai-infrastructure-under-scrutiny-a-view-from-the-gulf-3009874">Arab News</source>
+      <description>An opinion piece on how local opposition to large AI data center campuses is causing delays and regulatory action across several regions, and why investors now treat it as a financial risk. It suggests Gulf capital ask portfolio companies about community engagement and energy and water disclosure.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC is weighing a move into AI memory chips at Nvidia's request</title>
+      <link>https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia</link>
+      <guid isPermaLink="true">https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia">The Next Web</source>
+      <description>Reports that TSMC is drafting plans for 3D DRAM, possibly in new or converted fabs, after a request from Nvidia. It sets the unconfirmed move against Samsung, SK Hynix and Micron amid an AI-driven memory shortage.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese startup presents 15-watt EUV source prototype</title>
+      <link>https://bits-chips.com/article/chinese-startup-presents-15-watt-euv-source-prototype/</link>
+      <guid isPermaLink="true">https://bits-chips.com/article/chinese-startup-presents-15-watt-euv-source-prototype/</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://bits-chips.com/article/chinese-startup-presents-15-watt-euv-source-prototype/">Bits&amp;Chips</source>
+      <description>Covers a Chinese startup's laser-produced-plasma EUV light source prototype, its claimed power and domestic parts share, and how far it sits below the output of ASML's production sources. Notes the unclear measurement conditions and a multi-year commercialization outlook.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Equipment Stocks Rally as SK Hynix Signals Memory Shortage Into 2030</title>
+      <link>https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/</link>
+      <guid isPermaLink="true">https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://247wallst.com/investing/2026/10/28/chip-equipment-stocks-rally-as-sk-hynix-signals-memory-shortage-into-2030-lam-research-jumps-5-applied-materials-climbs-4-kla-gains-3/">24/7 Wall St.</source>
+      <description>Explains why toolmakers Lam Research, Applied Materials and KLA rose after SK Hynix signaled tight memory supply for years. Links longer memory shortages to more fab equipment demand and lists China exposure and export rules as risks.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lionsgate Revenue Rises 41% as Studio Swings to Operating Profit</title>
+      <link>https://www.securities.io/lionsgate-revenue-rises-41-as-studio-swings-to-operating-profit/</link>
+      <guid isPermaLink="true">https://www.securities.io/lionsgate-revenue-rises-41-as-studio-swings-to-operating-profit/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.securities.io/lionsgate-revenue-rises-41-as-studio-swings-to-operating-profit/">Securities.io</source>
+      <description>Summarizes Lionsgate Studios' fiscal second-quarter results, including revenue growth and a turn to operating profit from a loss. Also flags remaining weak spots such as negative free cash flow, heavy interest costs and leverage.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix's Film Engagement Issues Get Worse</title>
+      <link>https://theankler.com/netflix-film-engagement-issues-get-worse/</link>
+      <guid isPermaLink="true">https://theankler.com/netflix-film-engagement-issues-get-worse/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://theankler.com/netflix-film-engagement-issues-get-worse/">The Ankler</source>
+      <description>Analysis of Netflix's film viewing and engagement trends and why they appear to be weakening, with implications for the streamer's movie strategy.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Spider-Man' Jolts Sony Pictures Earnings by 527%</title>
+      <link>https://www.thewrap.com/creative-content/movies/spider-man-sony-pictures-earnings-q3-2026/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/creative-content/movies/spider-man-sony-pictures-earnings-q3-2026/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.thewrap.com/creative-content/movies/spider-man-sony-pictures-earnings-q3-2026/">TheWrap</source>
+      <description>Looks at Sony Pictures' latest quarter, in which a Spider-Man release drove a sharp earnings jump and theatrical revenue, while television revenue fell. Gives the segment revenue figures behind the swing.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Springboks player ratings vs Italy | Nations Championship 2026</title>
+      <link>https://www.rugbypass.com/news/springboks-player-ratings-vs-italy-nations-championship-2026/</link>
+      <guid isPermaLink="true">https://www.rugbypass.com/news/springboks-player-ratings-vs-italy-nations-championship-2026/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.rugbypass.com/news/springboks-player-ratings-vs-italy-nations-championship-2026/">RugbyPass</source>
+      <description>Player-by-player ratings for the Springboks' 66-7 win over Italy in Turin on 7 November 2026, noting the standout performers, the lowest-rated player and Italy's improvement after the break.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Springboks thrash depleted Italy 66-7 with 9 tries in Nations Championship rugby</title>
+      <link>https://sports.yahoo.com/articles/springboks-thrash-depleted-italy-66-134153884.html</link>
+      <guid isPermaLink="true">https://sports.yahoo.com/articles/springboks-thrash-depleted-italy-66-134153884.html</guid>
+      <category>South African Rugby</category>
+      <source url="https://sports.yahoo.com/articles/springboks-thrash-depleted-italy-66-134153884.html">Associated Press (via Yahoo Sports)</source>
+      <description>Wire match report of South Africa's nine-try win in Turin, which moved them to 4-0 in the Nations Championship, with Italy short of injured forwards and the Boks next facing France.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krappie: Springboks forced their game plan onto Italy… now for France</title>
+      <link>https://www.citizen.co.za/sport/rugby/van-den-berg-springboks-game-plan-italy-france/</link>
+      <guid isPermaLink="true">https://www.citizen.co.za/sport/rugby/van-den-berg-springboks-game-plan-italy-france/</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.citizen.co.za/sport/rugby/van-den-berg-springboks-game-plan-italy-france/">The Citizen</source>
+      <description>Features man of the match Morne van den Berg on how the Boks imposed their style through set-piece strength, and on the approaching Test against France in Paris.</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
