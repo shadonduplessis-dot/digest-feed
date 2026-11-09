@@ -5,52 +5,7 @@
     <link>https://github.com/shadonduplessis-dot/digest-feed</link>
     <description>Curated reading: AI &amp; geopolitics, chips, film &amp; streaming, South African rugby</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:07:39 +0000</lastBuildDate>
-    <item>
-      <title>TSMC, ASML eye 12-inch photomasks to unlock High-NA EUV's full-field potential</title>
-      <link>https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html</link>
-      <guid isPermaLink="true">https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html</guid>
-      <category>Chip Manufacturing</category>
-      <source url="https://www.digitimes.com/news/a20261012PD204/tsmc-asml-high-na-euv-12-inch-manufacturing.html">DIGITIMES</source>
-      <description>Report on TSMC and ASML exploring larger photomasks as a route to full-field High-NA EUV lithography for 2nm and angstrom-era nodes. The full text is paywalled.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can a Radioactive Ore Break China's Grip on Rare Earths?</title>
-      <link>https://spectrum.ieee.org/monazite-rare-earth</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/monazite-rare-earth</guid>
-      <category>Chip Manufacturing</category>
-      <source url="https://spectrum.ieee.org/monazite-rare-earth">IEEE Spectrum</source>
-      <description>Looks at monazite as a possible source of rare earths outside China, weighing thorium waste handling, regulatory hurdles and the speculative dealmaking that has dogged the sector.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Everyone Is Talking About Hybrid Bonding, and Who Is in the Race</title>
-      <link>https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding</link>
-      <guid isPermaLink="true">https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding</guid>
-      <category>Chip Manufacturing</category>
-      <source url="https://insights.trendforce.com/p/advanced-packaging-hybrid-bonding">TrendForce</source>
-      <description>Explainer on hybrid bonding in advanced packaging, covering bonding methods, bottlenecks and the main suppliers as chip stacking and chiplets spread. Only part is free to read.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bela Bajaria Was Fired Wednesday. Next Week Netflix Faces Wall Street</title>
-      <link>https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/</link>
-      <guid isPermaLink="true">https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/</guid>
-      <category>Film &amp; Streaming</category>
-      <source url="https://theankler.com/bela-bajaria-was-fired-wednesday-next-week-netflix-faces-wall-street/">The Ankler</source>
-      <description>Reports on Netflix's content-chief change and roughly 1,000 job cuts, set against a weak stock year and expectations for the upcoming quarterly results. The article is partly paywalled.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digger is Tom Cruise's worst box-office opening in 20 years, can lose $150 million</title>
-      <link>https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/</link>
-      <guid isPermaLink="true">https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/</guid>
-      <category>Film &amp; Streaming</category>
-      <source url="https://theprint.in/entertainment/digger-tom-cruise-box-office-opening-lose-150-million/3062468/">ThePrint</source>
-      <description>Breaks down the weak opening of Digger against its reported budget and marketing spend, and estimates how large the studio's eventual loss could be.</description>
-      <pubDate>Sun, 18 Oct 2026 19:58:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 07:10:00 +0000</lastBuildDate>
     <item>
       <title>Disney Is Opening the Door to Netflix—and Changing the Streaming Playbook</title>
       <link>https://www.investing.com/analysis/disney-is-opening-the-door-to-netflixand-changing-the-streaming-playbook-200689145</link>
@@ -1805,6 +1760,51 @@
       <source url="https://www.citizen.co.za/sport/rugby/van-den-berg-springboks-game-plan-italy-france/">The Citizen</source>
       <description>Features man of the match Morne van den Berg on how the Boks imposed their style through set-piece strength, and on the approaching Test against France in Paris.</description>
       <pubDate>Sun, 08 Nov 2026 07:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toward a Federal Framework: Lessons from State and International Frontier AI Regulation</title>
+      <link>https://www.csis.org/analysis/toward-federal-framework-lessons-state-and-international-frontier-ai-regulation</link>
+      <guid isPermaLink="true">https://www.csis.org/analysis/toward-federal-framework-lessons-state-and-international-frontier-ai-regulation</guid>
+      <category>AI &amp; Geopolitics</category>
+      <source url="https://www.csis.org/analysis/toward-federal-framework-lessons-state-and-international-frontier-ai-regulation">CSIS</source>
+      <description>Compares US state frontier-AI laws such as California's and New York's with the EU AI Act and voluntary industry frameworks. Finds substantial overlap on safety protocols and risk assessment, with differences in scope, and draws lessons for a possible federal approach.</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Material Prices Double as Middle East Conflict Compounds China's Existing Gallium Export Ban</title>
+      <link>https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban</guid>
+      <category>Chip Manufacturing</category>
+      <source url="https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban">Tom's Hardware</source>
+      <description>Looks at sharp price rises in metals and other inputs used in compound-semiconductor equipment, citing industry sources, and how regional conflict and China's gallium restrictions are straining the materials supply chain.</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warner Bros. Discovery's Streaming Gains Overshadowed by Linear TV and Studio Struggles, Paramount Merger Limbo</title>
+      <link>https://www.thewrap.com/industry-news/business/warner-bros-discovery-earnings-q2-2026/</link>
+      <guid isPermaLink="true">https://www.thewrap.com/industry-news/business/warner-bros-discovery-earnings-q2-2026/</guid>
+      <category>Film &amp; Streaming</category>
+      <source url="https://www.thewrap.com/industry-news/business/warner-bros-discovery-earnings-q2-2026/">TheWrap</source>
+      <description>Breaks down Warner Bros. Discovery's second-quarter 2026 results, where streaming profit grew while linear TV and the film studio weighed on earnings, and notes the pending Paramount deal remains in litigation.</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Springboks player ratings: 'Mammoth' Malcolm Marx leads Italian mauling as 'swaggering' Sacha Feinberg-Mngomezulu shines</title>
+      <link>https://www.planetrugby.com/news/springboks-player-ratings-v-italy-sacha-shines-mamoth-marx</link>
+      <guid isPermaLink="true">https://www.planetrugby.com/news/springboks-player-ratings-v-italy-sacha-shines-mamoth-marx</guid>
+      <category>South African Rugby</category>
+      <source url="https://www.planetrugby.com/news/springboks-player-ratings-v-italy-sacha-shines-mamoth-marx">Planet Rugby</source>
+      <description>Player-by-player ratings for the Springboks' 66-7 Nations Championship win over Italy in Turin on 7 November 2026, highlighting Malcolm Marx and Sacha Feinberg-Mngomezulu.</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls, Sharks, and Stormers show grit to remain in URC top eight</title>
+      <link>https://supersport.com/rugby/news/29c7d3a9-60d3-4e2b-b1f3-e5189fdaa223/bulls-sharks-and-stormers-show-grit-to-remain-in-vodacom-urc-top-eight</link>
+      <guid isPermaLink="true">https://supersport.com/rugby/news/29c7d3a9-60d3-4e2b-b1f3-e5189fdaa223/bulls-sharks-and-stormers-show-grit-to-remain-in-vodacom-urc-top-eight</guid>
+      <category>South African Rugby</category>
+      <source url="https://supersport.com/rugby/news/29c7d3a9-60d3-4e2b-b1f3-e5189fdaa223/bulls-sharks-and-stormers-show-grit-to-remain-in-vodacom-urc-top-eight">SuperSport</source>
+      <description>Round-four URC recap in which the Bulls, Sharks and Stormers all collected bonus-point wins to stay near the top of the table, while the Lions slipped out of the top eight.</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
